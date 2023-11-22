@@ -1,0 +1,1896 @@
+Gender,ItemPurchased,TotallyBought,Location,Category,Season
+Female,Belt,1,Alabama,Accessories,Spring
+Female,Blouse,3,Alabama,Clothing,Winter
+Female,Coat,2,Alabama,Outerwear,Winter
+Female,Dress,2,Alabama,Clothing,Summer
+Female,Jacket,1,Alabama,Outerwear,Spring
+Female,Jeans,1,Alabama,Clothing,Fall
+Female,Jewelry,4,Alabama,Accessories,Spring
+Female,Pants,1,Alabama,Clothing,Summer
+Female,Sandals,3,Alabama,Footwear,Winter
+Female,Scarf,1,Alabama,Accessories,Summer
+Female,Shirt,1,Alabama,Clothing,Winter
+Female,Shoes,4,Alabama,Footwear,Spring
+Female,Socks,1,Alabama,Clothing,Fall
+Female,Sunglasses,1,Alabama,Accessories,Winter
+Female,Sweater,1,Alabama,Clothing,Spring
+Female,Backpack,2,Alaska,Accessories,Spring
+Female,Belt,1,Alaska,Accessories,Spring
+Female,Blouse,3,Alaska,Clothing,Spring
+Female,Dress,1,Alaska,Clothing,Spring
+Female,Gloves,2,Alaska,Accessories,Summer
+Female,Handbag,1,Alaska,Accessories,Summer
+Female,Hat,1,Alaska,Accessories,Winter
+Female,Hoodie,1,Alaska,Clothing,Summer
+Female,Jeans,1,Alaska,Clothing,Spring
+Female,Sandals,3,Alaska,Footwear,Spring
+Female,Scarf,1,Alaska,Accessories,Fall
+Female,Shirt,1,Alaska,Clothing,Winter
+Female,Shorts,1,Alaska,Clothing,Spring
+Female,Skirt,3,Alaska,Clothing,Fall
+Female,Sneakers,1,Alaska,Footwear,Spring
+Female,Socks,1,Alaska,Clothing,Spring
+Female,Belt,1,Arizona,Accessories,Summer
+Female,Blouse,1,Arizona,Clothing,Summer
+Female,Coat,2,Arizona,Outerwear,Fall
+Female,Dress,3,Arizona,Clothing,Winter
+Female,Gloves,1,Arizona,Accessories,Summer
+Female,Handbag,2,Arizona,Accessories,Fall
+Female,Hoodie,2,Arizona,Clothing,Summer
+Female,Jacket,2,Arizona,Outerwear,Winter
+Female,Jeans,1,Arizona,Clothing,Summer
+Female,Jewelry,1,Arizona,Accessories,Fall
+Female,Pants,1,Arizona,Clothing,Spring
+Female,Scarf,1,Arizona,Accessories,Fall
+Female,Shirt,1,Arizona,Clothing,Spring
+Female,Shoes,1,Arizona,Footwear,Spring
+Female,Skirt,2,Arizona,Clothing,Winter
+Female,Socks,1,Arizona,Clothing,Summer
+Female,Sweater,2,Arizona,Clothing,Spring
+Female,Blouse,1,Arkansas,Clothing,Winter
+Female,Boots,1,Arkansas,Footwear,Summer
+Female,Dress,2,Arkansas,Clothing,Spring
+Female,Gloves,2,Arkansas,Accessories,Summer
+Female,Handbag,1,Arkansas,Accessories,Spring
+Female,Hoodie,1,Arkansas,Clothing,Winter
+Female,Jacket,1,Arkansas,Outerwear,Fall
+Female,Jeans,2,Arkansas,Clothing,Fall
+Female,Jewelry,2,Arkansas,Accessories,Winter
+Female,Pants,1,Arkansas,Clothing,Spring
+Female,Sandals,3,Arkansas,Footwear,Spring
+Female,Scarf,1,Arkansas,Accessories,Fall
+Female,Shirt,2,Arkansas,Clothing,Fall
+Female,Shoes,2,Arkansas,Footwear,Fall
+Female,Shorts,1,Arkansas,Clothing,Summer
+Female,Sweater,1,Arkansas,Clothing,Fall
+Female,T-shirt,1,Arkansas,Clothing,Spring
+Female,Backpack,2,California,Accessories,Summer
+Female,Boots,2,California,Footwear,Winter
+Female,Coat,1,California,Outerwear,Summer
+Female,Dress,3,California,Clothing,Summer
+Female,Handbag,1,California,Accessories,Spring
+Female,Hoodie,1,California,Clothing,Spring
+Female,Jeans,2,California,Clothing,Fall
+Female,Jewelry,1,California,Accessories,Summer
+Female,Pants,1,California,Clothing,Fall
+Female,Sandals,1,California,Footwear,Summer
+Female,Shirt,2,California,Clothing,Summer
+Female,Shorts,2,California,Clothing,Fall
+Female,Skirt,4,California,Clothing,Spring
+Female,Sunglasses,2,California,Accessories,Summer
+Female,Sweater,2,California,Clothing,Winter
+Female,T-shirt,2,California,Clothing,Winter
+Female,Backpack,2,Colorado,Accessories,Winter
+Female,Dress,2,Colorado,Clothing,Winter
+Female,Gloves,2,Colorado,Accessories,Summer
+Female,Handbag,3,Colorado,Accessories,Spring
+Female,Hat,1,Colorado,Accessories,Winter
+Female,Hoodie,3,Colorado,Clothing,Spring
+Female,Jacket,2,Colorado,Outerwear,Summer
+Female,Jewelry,1,Colorado,Accessories,Summer
+Female,Sandals,1,Colorado,Footwear,Fall
+Female,Shirt,4,Colorado,Clothing,Winter
+Female,Shoes,1,Colorado,Footwear,Spring
+Female,Skirt,1,Colorado,Clothing,Summer
+Female,Sneakers,1,Colorado,Footwear,Summer
+Female,Sunglasses,1,Colorado,Accessories,Fall
+Female,Sweater,1,Colorado,Clothing,Winter
+Female,Belt,1,Connecticut,Accessories,Winter
+Female,Blouse,2,Connecticut,Clothing,Summer
+Female,Boots,3,Connecticut,Footwear,Fall
+Female,Coat,1,Connecticut,Outerwear,Fall
+Female,Gloves,1,Connecticut,Accessories,Fall
+Female,Handbag,2,Connecticut,Accessories,Summer
+Female,Hoodie,1,Connecticut,Clothing,Spring
+Female,Jacket,1,Connecticut,Outerwear,Summer
+Female,Jeans,1,Connecticut,Clothing,Fall
+Female,Jewelry,3,Connecticut,Accessories,Winter
+Female,Pants,2,Connecticut,Clothing,Fall
+Female,Sandals,2,Connecticut,Footwear,Spring
+Female,Shorts,2,Connecticut,Clothing,Spring
+Female,Skirt,1,Connecticut,Clothing,Spring
+Female,Socks,2,Connecticut,Clothing,Fall
+Female,Sunglasses,1,Connecticut,Accessories,Winter
+Female,T-shirt,1,Connecticut,Clothing,Fall
+Female,Backpack,1,Delaware,Accessories,Fall
+Female,Belt,2,Delaware,Accessories,Summer
+Female,Blouse,3,Delaware,Clothing,Summer
+Female,Coat,1,Delaware,Outerwear,Fall
+Female,Dress,1,Delaware,Clothing,Fall
+Female,Gloves,2,Delaware,Accessories,Winter
+Female,Hat,1,Delaware,Accessories,Fall
+Female,Hoodie,1,Delaware,Clothing,Winter
+Female,Jacket,1,Delaware,Outerwear,Winter
+Female,Jeans,1,Delaware,Clothing,Spring
+Female,Pants,1,Delaware,Clothing,Winter
+Female,Sandals,1,Delaware,Footwear,Fall
+Female,Scarf,2,Delaware,Accessories,Spring
+Female,Shoes,2,Delaware,Footwear,Fall
+Female,Shorts,1,Delaware,Clothing,Spring
+Female,Socks,1,Delaware,Clothing,Winter
+Female,Sunglasses,1,Delaware,Accessories,Fall
+Female,Sweater,2,Delaware,Clothing,Spring
+Female,Backpack,1,Florida,Accessories,Summer
+Female,Handbag,2,Florida,Accessories,Fall
+Female,Hat,4,Florida,Accessories,Fall
+Female,Hoodie,2,Florida,Clothing,Fall
+Female,Scarf,1,Florida,Accessories,Summer
+Female,Shirt,1,Florida,Clothing,Summer
+Female,Shoes,1,Florida,Footwear,Spring
+Female,Skirt,5,Florida,Clothing,Winter
+Female,Sneakers,1,Florida,Footwear,Fall
+Female,Socks,1,Florida,Clothing,Winter
+Female,T-shirt,1,Florida,Clothing,Spring
+Female,Blouse,3,Georgia,Clothing,Spring
+Female,Dress,2,Georgia,Clothing,Summer
+Female,Handbag,1,Georgia,Accessories,Spring
+Female,Hat,2,Georgia,Accessories,Spring
+Female,Jewelry,2,Georgia,Accessories,Summer
+Female,Pants,2,Georgia,Clothing,Summer
+Female,Sandals,2,Georgia,Footwear,Fall
+Female,Scarf,2,Georgia,Accessories,Winter
+Female,Shirt,2,Georgia,Clothing,Spring
+Female,Shoes,2,Georgia,Footwear,Summer
+Female,Shorts,2,Georgia,Clothing,Spring
+Female,Sneakers,1,Georgia,Footwear,Winter
+Female,Socks,3,Georgia,Clothing,Winter
+Female,Sunglasses,2,Georgia,Accessories,Winter
+Female,T-shirt,2,Georgia,Clothing,Fall
+Female,Belt,1,Hawaii,Accessories,Summer
+Female,Blouse,1,Hawaii,Clothing,Winter
+Female,Boots,1,Hawaii,Footwear,Summer
+Female,Coat,2,Hawaii,Outerwear,Fall
+Female,Gloves,1,Hawaii,Accessories,Winter
+Female,Handbag,1,Hawaii,Accessories,Fall
+Female,Hat,1,Hawaii,Accessories,Fall
+Female,Jacket,1,Hawaii,Outerwear,Spring
+Female,Jewelry,1,Hawaii,Accessories,Summer
+Female,Pants,1,Hawaii,Clothing,Spring
+Female,Shorts,1,Hawaii,Clothing,Fall
+Female,Socks,1,Hawaii,Clothing,Summer
+Female,Sweater,1,Hawaii,Clothing,Spring
+Female,Belt,4,Idaho,Accessories,Fall
+Female,Blouse,4,Idaho,Clothing,Fall
+Female,Coat,4,Idaho,Outerwear,Fall
+Female,Dress,1,Idaho,Clothing,Summer
+Female,Gloves,3,Idaho,Accessories,Spring
+Female,Hoodie,3,Idaho,Clothing,Summer
+Female,Jeans,2,Idaho,Clothing,Spring
+Female,Jewelry,1,Idaho,Accessories,Summer
+Female,Pants,1,Idaho,Clothing,Fall
+Female,Scarf,1,Idaho,Accessories,Spring
+Female,Shirt,1,Idaho,Clothing,Winter
+Female,Shoes,1,Idaho,Footwear,Summer
+Female,Shorts,3,Idaho,Clothing,Summer
+Female,Skirt,1,Idaho,Clothing,Winter
+Female,Sunglasses,1,Idaho,Accessories,Fall
+Female,Sweater,2,Idaho,Clothing,Summer
+Female,T-shirt,1,Idaho,Clothing,Winter
+Female,Belt,3,Illinois,Accessories,Spring
+Female,Blouse,2,Illinois,Clothing,Summer
+Female,Boots,1,Illinois,Footwear,Summer
+Female,Coat,1,Illinois,Outerwear,Summer
+Female,Dress,1,Illinois,Clothing,Fall
+Female,Gloves,2,Illinois,Accessories,Summer
+Female,Handbag,1,Illinois,Accessories,Summer
+Female,Hat,1,Illinois,Accessories,Summer
+Female,Hoodie,1,Illinois,Clothing,Winter
+Female,Jacket,2,Illinois,Outerwear,Winter
+Female,Jewelry,1,Illinois,Accessories,Winter
+Female,Pants,1,Illinois,Clothing,Summer
+Female,Sandals,1,Illinois,Footwear,Fall
+Female,Scarf,2,Illinois,Accessories,Winter
+Female,Shirt,5,Illinois,Clothing,Winter
+Female,Socks,2,Illinois,Clothing,Winter
+Female,Sweater,3,Illinois,Clothing,Fall
+Female,Backpack,1,Indiana,Accessories,Summer
+Female,Belt,1,Indiana,Accessories,Fall
+Female,Blouse,1,Indiana,Clothing,Summer
+Female,Boots,1,Indiana,Footwear,Summer
+Female,Coat,1,Indiana,Outerwear,Spring
+Female,Jewelry,2,Indiana,Accessories,Winter
+Female,Sandals,2,Indiana,Footwear,Fall
+Female,Scarf,1,Indiana,Accessories,Spring
+Female,Shoes,2,Indiana,Footwear,Spring
+Female,Shorts,1,Indiana,Clothing,Winter
+Female,Sneakers,1,Indiana,Footwear,Summer
+Female,Sweater,2,Indiana,Clothing,Winter
+Female,T-shirt,1,Indiana,Clothing,Spring
+Female,Backpack,2,Iowa,Accessories,Spring
+Female,Belt,1,Iowa,Accessories,Summer
+Female,Dress,1,Iowa,Clothing,Spring
+Female,Gloves,1,Iowa,Accessories,Fall
+Female,Handbag,1,Iowa,Accessories,Fall
+Female,Jacket,2,Iowa,Outerwear,Winter
+Female,Jeans,1,Iowa,Clothing,Winter
+Female,Jewelry,2,Iowa,Accessories,Spring
+Female,Sandals,1,Iowa,Footwear,Spring
+Female,Shoes,2,Iowa,Footwear,Summer
+Female,Sunglasses,1,Iowa,Accessories,Winter
+Female,Sweater,2,Iowa,Clothing,Winter
+Female,Backpack,1,Kansas,Accessories,Spring
+Female,Belt,2,Kansas,Accessories,Spring
+Female,Blouse,3,Kansas,Clothing,Spring
+Female,Boots,3,Kansas,Footwear,Summer
+Female,Coat,1,Kansas,Outerwear,Summer
+Female,Dress,1,Kansas,Clothing,Spring
+Female,Hat,3,Kansas,Accessories,Fall
+Female,Jacket,1,Kansas,Outerwear,Spring
+Female,Jewelry,1,Kansas,Accessories,Winter
+Female,Pants,1,Kansas,Clothing,Fall
+Female,Sandals,3,Kansas,Footwear,Fall
+Female,Scarf,2,Kansas,Accessories,Summer
+Female,Shirt,2,Kansas,Clothing,Winter
+Female,Shorts,1,Kansas,Clothing,Winter
+Female,Sneakers,2,Kansas,Footwear,Winter
+Female,Socks,2,Kansas,Clothing,Spring
+Female,T-shirt,1,Kansas,Clothing,Summer
+Female,Backpack,1,Kentucky,Accessories,Spring
+Female,Belt,2,Kentucky,Accessories,Spring
+Female,Blouse,2,Kentucky,Clothing,Fall
+Female,Boots,1,Kentucky,Footwear,Spring
+Female,Coat,3,Kentucky,Outerwear,Spring
+Female,Handbag,3,Kentucky,Accessories,Spring
+Female,Hat,1,Kentucky,Accessories,Winter
+Female,Jacket,1,Kentucky,Outerwear,Fall
+Female,Jewelry,2,Kentucky,Accessories,Spring
+Female,Pants,1,Kentucky,Clothing,Fall
+Female,Sandals,2,Kentucky,Footwear,Winter
+Female,Scarf,2,Kentucky,Accessories,Spring
+Female,Shirt,3,Kentucky,Clothing,Winter
+Female,Shorts,2,Kentucky,Clothing,Winter
+Female,Sunglasses,2,Kentucky,Accessories,Winter
+Female,Sweater,2,Kentucky,Clothing,Winter
+Female,Backpack,1,Louisiana,Accessories,Winter
+Female,Belt,2,Louisiana,Accessories,Fall
+Female,Blouse,1,Louisiana,Clothing,Summer
+Female,Boots,1,Louisiana,Footwear,Spring
+Female,Coat,1,Louisiana,Outerwear,Spring
+Female,Dress,2,Louisiana,Clothing,Spring
+Female,Gloves,1,Louisiana,Accessories,Winter
+Female,Handbag,1,Louisiana,Accessories,Fall
+Female,Hat,1,Louisiana,Accessories,Winter
+Female,Hoodie,4,Louisiana,Clothing,Fall
+Female,Jeans,2,Louisiana,Clothing,Fall
+Female,Sandals,4,Louisiana,Footwear,Winter
+Female,Shirt,1,Louisiana,Clothing,Fall
+Female,Skirt,1,Louisiana,Clothing,Winter
+Female,Sneakers,1,Louisiana,Footwear,Summer
+Female,Sunglasses,2,Louisiana,Accessories,Spring
+Female,T-shirt,1,Louisiana,Clothing,Winter
+Female,Belt,1,Maine,Accessories,Fall
+Female,Blouse,1,Maine,Clothing,Summer
+Female,Boots,3,Maine,Footwear,Spring
+Female,Coat,1,Maine,Outerwear,Winter
+Female,Dress,1,Maine,Clothing,Fall
+Female,Gloves,1,Maine,Accessories,Summer
+Female,Handbag,1,Maine,Accessories,Winter
+Female,Hat,2,Maine,Accessories,Spring
+Female,Jacket,1,Maine,Outerwear,Fall
+Female,Jewelry,1,Maine,Accessories,Fall
+Female,Pants,3,Maine,Clothing,Winter
+Female,Scarf,1,Maine,Accessories,Summer
+Female,Shoes,2,Maine,Footwear,Spring
+Female,Socks,3,Maine,Clothing,Spring
+Female,Sunglasses,2,Maine,Accessories,Fall
+Female,Sweater,2,Maine,Clothing,Spring
+Female,T-shirt,1,Maine,Clothing,Spring
+Female,Blouse,1,Maryland,Clothing,Winter
+Female,Boots,1,Maryland,Footwear,Summer
+Female,Coat,2,Maryland,Outerwear,Fall
+Female,Dress,2,Maryland,Clothing,Summer
+Female,Handbag,2,Maryland,Accessories,Winter
+Female,Hoodie,1,Maryland,Clothing,Spring
+Female,Jacket,2,Maryland,Outerwear,Summer
+Female,Jeans,1,Maryland,Clothing,Summer
+Female,Jewelry,1,Maryland,Accessories,Summer
+Female,Sandals,2,Maryland,Footwear,Summer
+Female,Scarf,2,Maryland,Accessories,Spring
+Female,Shirt,1,Maryland,Clothing,Fall
+Female,Shoes,1,Maryland,Footwear,Winter
+Female,Shorts,1,Maryland,Clothing,Summer
+Female,Skirt,2,Maryland,Clothing,Spring
+Female,Sneakers,3,Maryland,Footwear,Spring
+Female,Socks,1,Maryland,Clothing,Summer
+Female,Sunglasses,1,Maryland,Accessories,Summer
+Female,T-shirt,1,Maryland,Clothing,Summer
+Female,Backpack,1,Massachusetts,Accessories,Fall
+Female,Boots,3,Massachusetts,Footwear,Spring
+Female,Coat,1,Massachusetts,Outerwear,Summer
+Female,Dress,1,Massachusetts,Clothing,Winter
+Female,Handbag,2,Massachusetts,Accessories,Summer
+Female,Hat,1,Massachusetts,Accessories,Fall
+Female,Sandals,1,Massachusetts,Footwear,Spring
+Female,Scarf,1,Massachusetts,Accessories,Summer
+Female,Shirt,2,Massachusetts,Clothing,Winter
+Female,Shoes,1,Massachusetts,Footwear,Summer
+Female,Sweater,1,Massachusetts,Clothing,Spring
+Female,T-shirt,1,Massachusetts,Clothing,Spring
+Female,Backpack,1,Michigan,Accessories,Fall
+Female,Belt,1,Michigan,Accessories,Winter
+Female,Blouse,2,Michigan,Clothing,Summer
+Female,Boots,2,Michigan,Footwear,Fall
+Female,Dress,1,Michigan,Clothing,Winter
+Female,Hat,1,Michigan,Accessories,Summer
+Female,Jeans,1,Michigan,Clothing,Spring
+Female,Jewelry,1,Michigan,Accessories,Summer
+Female,Pants,1,Michigan,Clothing,Summer
+Female,Sandals,3,Michigan,Footwear,Summer
+Female,Shirt,1,Michigan,Clothing,Fall
+Female,Skirt,3,Michigan,Clothing,Summer
+Female,Sneakers,2,Michigan,Footwear,Fall
+Female,Sunglasses,1,Michigan,Accessories,Spring
+Female,Sweater,1,Michigan,Clothing,Summer
+Female,T-shirt,2,Michigan,Clothing,Fall
+Female,Coat,2,Minnesota,Outerwear,Spring
+Female,Dress,1,Minnesota,Clothing,Fall
+Female,Handbag,1,Minnesota,Accessories,Spring
+Female,Hat,4,Minnesota,Accessories,Winter
+Female,Hoodie,1,Minnesota,Clothing,Summer
+Female,Jacket,1,Minnesota,Outerwear,Spring
+Female,Jeans,1,Minnesota,Clothing,Spring
+Female,Sandals,3,Minnesota,Footwear,Spring
+Female,Shirt,2,Minnesota,Clothing,Fall
+Female,Shoes,3,Minnesota,Footwear,Winter
+Female,Shorts,1,Minnesota,Clothing,Fall
+Female,Skirt,3,Minnesota,Clothing,Fall
+Female,Sneakers,1,Minnesota,Footwear,Spring
+Female,Sunglasses,2,Minnesota,Accessories,Fall
+Female,T-shirt,2,Minnesota,Clothing,Winter
+Female,Backpack,1,Mississippi,Accessories,Summer
+Female,Belt,2,Mississippi,Accessories,Summer
+Female,Blouse,2,Mississippi,Clothing,Fall
+Female,Boots,1,Mississippi,Footwear,Winter
+Female,Coat,1,Mississippi,Outerwear,Fall
+Female,Handbag,2,Mississippi,Accessories,Fall
+Female,Hat,1,Mississippi,Accessories,Fall
+Female,Hoodie,1,Mississippi,Clothing,Winter
+Female,Jeans,1,Mississippi,Clothing,Fall
+Female,Jewelry,3,Mississippi,Accessories,Winter
+Female,Sandals,1,Mississippi,Footwear,Spring
+Female,Shorts,2,Mississippi,Clothing,Summer
+Female,Sneakers,3,Mississippi,Footwear,Winter
+Female,Socks,1,Mississippi,Clothing,Winter
+Female,Sunglasses,1,Mississippi,Accessories,Winter
+Female,T-shirt,2,Mississippi,Clothing,Spring
+Female,Belt,3,Missouri,Accessories,Spring
+Female,Boots,1,Missouri,Footwear,Spring
+Female,Handbag,1,Missouri,Accessories,Spring
+Female,Jacket,1,Missouri,Outerwear,Fall
+Female,Jewelry,1,Missouri,Accessories,Summer
+Female,Scarf,1,Missouri,Accessories,Fall
+Female,Shirt,1,Missouri,Clothing,Summer
+Female,Sneakers,3,Missouri,Footwear,Spring
+Female,Socks,2,Missouri,Clothing,Fall
+Female,Sunglasses,2,Missouri,Accessories,Spring
+Female,T-shirt,2,Missouri,Clothing,Fall
+Female,Backpack,2,Montana,Accessories,Summer
+Female,Belt,1,Montana,Accessories,Spring
+Female,Blouse,1,Montana,Clothing,Fall
+Female,Coat,2,Montana,Outerwear,Summer
+Female,Dress,2,Montana,Clothing,Fall
+Female,Gloves,3,Montana,Accessories,Summer
+Female,Handbag,2,Montana,Accessories,Fall
+Female,Hoodie,3,Montana,Clothing,Spring
+Female,Jacket,3,Montana,Outerwear,Fall
+Female,Jeans,2,Montana,Clothing,Spring
+Female,Jewelry,1,Montana,Accessories,Summer
+Female,Pants,2,Montana,Clothing,Winter
+Female,Sandals,1,Montana,Footwear,Spring
+Female,Scarf,1,Montana,Accessories,Summer
+Female,Shirt,2,Montana,Clothing,Winter
+Female,Shoes,1,Montana,Footwear,Summer
+Female,Shorts,2,Montana,Clothing,Spring
+Female,Socks,4,Montana,Clothing,Fall
+Female,Sunglasses,1,Montana,Accessories,Winter
+Female,Sweater,1,Montana,Clothing,Spring
+Female,T-shirt,1,Montana,Clothing,Winter
+Female,Backpack,3,Nebraska,Accessories,Fall
+Female,Belt,1,Nebraska,Accessories,Winter
+Female,Boots,2,Nebraska,Footwear,Fall
+Female,Coat,1,Nebraska,Outerwear,Summer
+Female,Gloves,1,Nebraska,Accessories,Fall
+Female,Handbag,1,Nebraska,Accessories,Fall
+Female,Hoodie,1,Nebraska,Clothing,Summer
+Female,Jewelry,1,Nebraska,Accessories,Spring
+Female,Pants,2,Nebraska,Clothing,Winter
+Female,Sandals,1,Nebraska,Footwear,Spring
+Female,Scarf,1,Nebraska,Accessories,Winter
+Female,Shirt,3,Nebraska,Clothing,Summer
+Female,Shoes,2,Nebraska,Footwear,Fall
+Female,Shorts,1,Nebraska,Clothing,Spring
+Female,Skirt,1,Nebraska,Clothing,Summer
+Female,Socks,1,Nebraska,Clothing,Fall
+Female,Sunglasses,3,Nebraska,Accessories,Spring
+Female,Sweater,3,Nebraska,Clothing,Spring
+Female,Backpack,5,Nevada,Accessories,Summer
+Female,Belt,3,Nevada,Accessories,Winter
+Female,Blouse,3,Nevada,Clothing,Summer
+Female,Coat,1,Nevada,Outerwear,Winter
+Female,Dress,2,Nevada,Clothing,Spring
+Female,Gloves,1,Nevada,Accessories,Fall
+Female,Hoodie,2,Nevada,Clothing,Summer
+Female,Jacket,1,Nevada,Outerwear,Summer
+Female,Jewelry,1,Nevada,Accessories,Spring
+Female,Shoes,1,Nevada,Footwear,Winter
+Female,Shorts,1,Nevada,Clothing,Spring
+Female,Socks,3,Nevada,Clothing,Spring
+Female,Sunglasses,2,Nevada,Accessories,Fall
+Female,Sweater,3,Nevada,Clothing,Winter
+Female,Belt,2,New Hampshire,Accessories,Spring
+Female,Blouse,2,New Hampshire,Clothing,Fall
+Female,Boots,1,New Hampshire,Footwear,Summer
+Female,Coat,1,New Hampshire,Outerwear,Spring
+Female,Handbag,1,New Hampshire,Accessories,Summer
+Female,Hat,1,New Hampshire,Accessories,Winter
+Female,Hoodie,1,New Hampshire,Clothing,Fall
+Female,Jacket,1,New Hampshire,Outerwear,Spring
+Female,Jeans,1,New Hampshire,Clothing,Winter
+Female,Jewelry,1,New Hampshire,Accessories,Winter
+Female,Pants,1,New Hampshire,Clothing,Fall
+Female,Sandals,1,New Hampshire,Footwear,Winter
+Female,Scarf,1,New Hampshire,Accessories,Summer
+Female,Shirt,1,New Hampshire,Clothing,Spring
+Female,Sunglasses,2,New Hampshire,Accessories,Winter
+Female,Sweater,1,New Hampshire,Clothing,Spring
+Female,T-shirt,2,New Hampshire,Clothing,Winter
+Female,Backpack,1,New Jersey,Accessories,Winter
+Female,Belt,2,New Jersey,Accessories,Fall
+Female,Blouse,1,New Jersey,Clothing,Summer
+Female,Boots,1,New Jersey,Footwear,Spring
+Female,Coat,1,New Jersey,Outerwear,Spring
+Female,Gloves,2,New Jersey,Accessories,Fall
+Female,Hat,1,New Jersey,Accessories,Fall
+Female,Hoodie,1,New Jersey,Clothing,Summer
+Female,Jacket,1,New Jersey,Outerwear,Spring
+Female,Pants,2,New Jersey,Clothing,Spring
+Female,Scarf,2,New Jersey,Accessories,Winter
+Female,Shoes,2,New Jersey,Footwear,Spring
+Female,Shorts,1,New Jersey,Clothing,Fall
+Female,Skirt,1,New Jersey,Clothing,Fall
+Female,Sneakers,2,New Jersey,Footwear,Summer
+Female,Socks,2,New Jersey,Clothing,Summer
+Female,Sunglasses,1,New Jersey,Accessories,Summer
+Female,Belt,3,New Mexico,Accessories,Summer
+Female,Hat,2,New Mexico,Accessories,Summer
+Female,Hoodie,2,New Mexico,Clothing,Spring
+Female,Jacket,2,New Mexico,Outerwear,Fall
+Female,Pants,2,New Mexico,Clothing,Summer
+Female,Sandals,1,New Mexico,Footwear,Spring
+Female,Scarf,1,New Mexico,Accessories,Summer
+Female,Shirt,1,New Mexico,Clothing,Winter
+Female,Shoes,1,New Mexico,Footwear,Winter
+Female,Socks,3,New Mexico,Clothing,Summer
+Female,Sunglasses,1,New Mexico,Accessories,Summer
+Female,T-shirt,1,New Mexico,Clothing,Fall
+Female,Belt,1,New York,Accessories,Spring
+Female,Blouse,2,New York,Clothing,Fall
+Female,Coat,1,New York,Outerwear,Winter
+Female,Gloves,1,New York,Accessories,Winter
+Female,Handbag,1,New York,Accessories,Winter
+Female,Hat,1,New York,Accessories,Winter
+Female,Jacket,3,New York,Outerwear,Fall
+Female,Jeans,1,New York,Clothing,Summer
+Female,Jewelry,2,New York,Accessories,Spring
+Female,Sandals,1,New York,Footwear,Fall
+Female,Shoes,2,New York,Footwear,Winter
+Female,Shorts,2,New York,Clothing,Fall
+Female,Skirt,1,New York,Clothing,Winter
+Female,Sneakers,1,New York,Footwear,Summer
+Female,Socks,1,New York,Clothing,Fall
+Female,Sunglasses,3,New York,Accessories,Winter
+Female,Sweater,1,New York,Clothing,Summer
+Female,Backpack,2,North Carolina,Accessories,Summer
+Female,Belt,2,North Carolina,Accessories,Winter
+Female,Boots,2,North Carolina,Footwear,Spring
+Female,Gloves,1,North Carolina,Accessories,Spring
+Female,Handbag,1,North Carolina,Accessories,Winter
+Female,Hat,1,North Carolina,Accessories,Summer
+Female,Jacket,1,North Carolina,Outerwear,Spring
+Female,Jewelry,1,North Carolina,Accessories,Spring
+Female,Pants,1,North Carolina,Clothing,Fall
+Female,Sandals,2,North Carolina,Footwear,Fall
+Female,Scarf,1,North Carolina,Accessories,Winter
+Female,Shirt,1,North Carolina,Clothing,Spring
+Female,Shorts,1,North Carolina,Clothing,Winter
+Female,Sneakers,3,North Carolina,Footwear,Winter
+Female,Socks,1,North Carolina,Clothing,Fall
+Female,Sweater,1,North Carolina,Clothing,Fall
+Female,T-shirt,1,North Carolina,Clothing,Summer
+Female,Blouse,1,North Dakota,Clothing,Winter
+Female,Coat,1,North Dakota,Outerwear,Spring
+Female,Dress,1,North Dakota,Clothing,Summer
+Female,Gloves,1,North Dakota,Accessories,Summer
+Female,Handbag,3,North Dakota,Accessories,Fall
+Female,Hat,1,North Dakota,Accessories,Fall
+Female,Hoodie,1,North Dakota,Clothing,Fall
+Female,Jacket,5,North Dakota,Outerwear,Fall
+Female,Jeans,1,North Dakota,Clothing,Winter
+Female,Jewelry,1,North Dakota,Accessories,Winter
+Female,Pants,1,North Dakota,Clothing,Fall
+Female,Shirt,1,North Dakota,Clothing,Summer
+Female,Shoes,1,North Dakota,Footwear,Winter
+Female,Shorts,1,North Dakota,Clothing,Summer
+Female,Skirt,1,North Dakota,Clothing,Summer
+Female,Socks,2,North Dakota,Clothing,Spring
+Female,Sweater,1,North Dakota,Clothing,Winter
+Female,Belt,1,Ohio,Accessories,Winter
+Female,Blouse,1,Ohio,Clothing,Winter
+Female,Boots,1,Ohio,Footwear,Winter
+Female,Coat,1,Ohio,Outerwear,Fall
+Female,Dress,2,Ohio,Clothing,Winter
+Female,Handbag,1,Ohio,Accessories,Summer
+Female,Hat,1,Ohio,Accessories,Winter
+Female,Hoodie,2,Ohio,Clothing,Fall
+Female,Jacket,1,Ohio,Outerwear,Fall
+Female,Jeans,1,Ohio,Clothing,Summer
+Female,Pants,1,Ohio,Clothing,Summer
+Female,Sandals,4,Ohio,Footwear,Winter
+Female,Skirt,2,Ohio,Clothing,Summer
+Female,Sneakers,1,Ohio,Footwear,Summer
+Female,Socks,3,Ohio,Clothing,Fall
+Female,Sunglasses,1,Ohio,Accessories,Winter
+Female,Sweater,1,Ohio,Clothing,Summer
+Female,T-shirt,3,Ohio,Clothing,Winter
+Female,Backpack,1,Oklahoma,Accessories,Fall
+Female,Blouse,1,Oklahoma,Clothing,Winter
+Female,Boots,2,Oklahoma,Footwear,Fall
+Female,Dress,1,Oklahoma,Clothing,Winter
+Female,Hat,3,Oklahoma,Accessories,Fall
+Female,Jacket,4,Oklahoma,Outerwear,Winter
+Female,Jeans,1,Oklahoma,Clothing,Summer
+Female,Jewelry,1,Oklahoma,Accessories,Winter
+Female,Pants,2,Oklahoma,Clothing,Winter
+Female,Shirt,2,Oklahoma,Clothing,Fall
+Female,Shorts,1,Oklahoma,Clothing,Winter
+Female,Socks,1,Oklahoma,Clothing,Fall
+Female,Sunglasses,1,Oklahoma,Accessories,Spring
+Female,Sweater,1,Oklahoma,Clothing,Spring
+Female,T-shirt,1,Oklahoma,Clothing,Winter
+Female,Blouse,2,Oregon,Clothing,Fall
+Female,Boots,1,Oregon,Footwear,Spring
+Female,Coat,1,Oregon,Outerwear,Spring
+Female,Dress,1,Oregon,Clothing,Fall
+Female,Pants,1,Oregon,Clothing,Winter
+Female,Scarf,1,Oregon,Accessories,Fall
+Female,Shirt,3,Oregon,Clothing,Fall
+Female,Shoes,1,Oregon,Footwear,Winter
+Female,Skirt,2,Oregon,Clothing,Spring
+Female,Sneakers,2,Oregon,Footwear,Winter
+Female,Socks,4,Oregon,Clothing,Fall
+Female,Sunglasses,1,Oregon,Accessories,Fall
+Female,T-shirt,1,Oregon,Clothing,Summer
+Female,Backpack,1,Pennsylvania,Accessories,Spring
+Female,Belt,1,Pennsylvania,Accessories,Spring
+Female,Blouse,1,Pennsylvania,Clothing,Summer
+Female,Gloves,1,Pennsylvania,Accessories,Winter
+Female,Handbag,1,Pennsylvania,Accessories,Spring
+Female,Hat,2,Pennsylvania,Accessories,Winter
+Female,Hoodie,1,Pennsylvania,Clothing,Winter
+Female,Pants,2,Pennsylvania,Clothing,Fall
+Female,Sandals,1,Pennsylvania,Footwear,Winter
+Female,Scarf,2,Pennsylvania,Accessories,Winter
+Female,Shirt,1,Pennsylvania,Clothing,Spring
+Female,Shoes,1,Pennsylvania,Footwear,Spring
+Female,Skirt,3,Pennsylvania,Clothing,Spring
+Female,Sneakers,1,Pennsylvania,Footwear,Fall
+Female,Socks,2,Pennsylvania,Clothing,Summer
+Female,Sunglasses,4,Pennsylvania,Accessories,Fall
+Female,Sweater,1,Pennsylvania,Clothing,Fall
+Female,T-shirt,1,Pennsylvania,Clothing,Summer
+Female,Belt,2,Rhode Island,Accessories,Summer
+Female,Boots,2,Rhode Island,Footwear,Summer
+Female,Coat,1,Rhode Island,Outerwear,Summer
+Female,Dress,1,Rhode Island,Clothing,Summer
+Female,Gloves,1,Rhode Island,Accessories,Spring
+Female,Handbag,1,Rhode Island,Accessories,Winter
+Female,Hoodie,1,Rhode Island,Clothing,Winter
+Female,Jewelry,2,Rhode Island,Accessories,Winter
+Female,Pants,2,Rhode Island,Clothing,Winter
+Female,Sandals,1,Rhode Island,Footwear,Spring
+Female,Shirt,2,Rhode Island,Clothing,Spring
+Female,Shorts,2,Rhode Island,Clothing,Spring
+Female,Socks,2,Rhode Island,Clothing,Spring
+Female,Sunglasses,1,Rhode Island,Accessories,Spring
+Female,Sweater,2,Rhode Island,Clothing,Winter
+Female,Backpack,1,South Carolina,Accessories,Winter
+Female,Belt,1,South Carolina,Accessories,Fall
+Female,Blouse,1,South Carolina,Clothing,Spring
+Female,Boots,2,South Carolina,Footwear,Summer
+Female,Dress,1,South Carolina,Clothing,Spring
+Female,Gloves,1,South Carolina,Accessories,Fall
+Female,Handbag,1,South Carolina,Accessories,Spring
+Female,Hat,2,South Carolina,Accessories,Fall
+Female,Hoodie,3,South Carolina,Clothing,Spring
+Female,Jacket,1,South Carolina,Outerwear,Summer
+Female,Jewelry,1,South Carolina,Accessories,Fall
+Female,Pants,1,South Carolina,Clothing,Spring
+Female,Shoes,1,South Carolina,Footwear,Spring
+Female,Skirt,1,South Carolina,Clothing,Spring
+Female,Sneakers,1,South Carolina,Footwear,Spring
+Female,Sweater,2,South Carolina,Clothing,Fall
+Female,Backpack,1,South Dakota,Accessories,Summer
+Female,Belt,1,South Dakota,Accessories,Spring
+Female,Blouse,2,South Dakota,Clothing,Spring
+Female,Coat,2,South Dakota,Outerwear,Spring
+Female,Dress,2,South Dakota,Clothing,Winter
+Female,Gloves,1,South Dakota,Accessories,Fall
+Female,Jacket,2,South Dakota,Outerwear,Summer
+Female,Jewelry,1,South Dakota,Accessories,Fall
+Female,Scarf,4,South Dakota,Accessories,Summer
+Female,Shorts,1,South Dakota,Clothing,Spring
+Female,Sneakers,1,South Dakota,Footwear,Fall
+Female,Socks,1,South Dakota,Clothing,Fall
+Female,Sweater,1,South Dakota,Clothing,Spring
+Female,T-shirt,2,South Dakota,Clothing,Winter
+Female,Boots,2,Tennessee,Footwear,Winter
+Female,Dress,3,Tennessee,Clothing,Spring
+Female,Gloves,1,Tennessee,Accessories,Fall
+Female,Handbag,2,Tennessee,Accessories,Summer
+Female,Hat,1,Tennessee,Accessories,Fall
+Female,Hoodie,1,Tennessee,Clothing,Winter
+Female,Jeans,1,Tennessee,Clothing,Summer
+Female,Jewelry,1,Tennessee,Accessories,Spring
+Female,Pants,2,Tennessee,Clothing,Winter
+Female,Scarf,3,Tennessee,Accessories,Winter
+Female,Shirt,1,Tennessee,Clothing,Fall
+Female,Shorts,1,Tennessee,Clothing,Summer
+Female,Skirt,3,Tennessee,Clothing,Spring
+Female,Sneakers,1,Tennessee,Footwear,Summer
+Female,Sunglasses,1,Tennessee,Accessories,Fall
+Female,Sweater,1,Tennessee,Clothing,Fall
+Female,T-shirt,2,Tennessee,Clothing,Fall
+Female,Backpack,1,Texas,Accessories,Winter
+Female,Blouse,3,Texas,Clothing,Winter
+Female,Boots,1,Texas,Footwear,Summer
+Female,Coat,1,Texas,Outerwear,Summer
+Female,Dress,1,Texas,Clothing,Summer
+Female,Gloves,1,Texas,Accessories,Spring
+Female,Handbag,4,Texas,Accessories,Summer
+Female,Hat,4,Texas,Accessories,Winter
+Female,Hoodie,2,Texas,Clothing,Fall
+Female,Jacket,2,Texas,Outerwear,Fall
+Female,Scarf,1,Texas,Accessories,Fall
+Female,Shirt,2,Texas,Clothing,Summer
+Female,Shoes,4,Texas,Footwear,Fall
+Female,Skirt,1,Texas,Clothing,Spring
+Female,Sneakers,1,Texas,Footwear,Fall
+Female,Sunglasses,4,Texas,Accessories,Spring
+Female,Blouse,1,Utah,Clothing,Fall
+Female,Boots,3,Utah,Footwear,Fall
+Female,Coat,1,Utah,Outerwear,Winter
+Female,Dress,4,Utah,Clothing,Summer
+Female,Handbag,3,Utah,Accessories,Fall
+Female,Hat,2,Utah,Accessories,Fall
+Female,Jacket,1,Utah,Outerwear,Winter
+Female,Jeans,1,Utah,Clothing,Fall
+Female,Jewelry,1,Utah,Accessories,Spring
+Female,Shorts,5,Utah,Clothing,Fall
+Female,Sneakers,1,Utah,Footwear,Spring
+Female,Socks,1,Utah,Clothing,Fall
+Female,Sunglasses,1,Utah,Accessories,Fall
+Female,T-shirt,2,Utah,Clothing,Spring
+Female,Backpack,1,Vermont,Accessories,Summer
+Female,Belt,1,Vermont,Accessories,Fall
+Female,Blouse,1,Vermont,Clothing,Winter
+Female,Boots,1,Vermont,Footwear,Winter
+Female,Hat,1,Vermont,Accessories,Winter
+Female,Hoodie,1,Vermont,Clothing,Spring
+Female,Jacket,2,Vermont,Outerwear,Spring
+Female,Pants,3,Vermont,Clothing,Winter
+Female,Sandals,1,Vermont,Footwear,Spring
+Female,Shirt,2,Vermont,Clothing,Summer
+Female,Shoes,1,Vermont,Footwear,Winter
+Female,Shorts,2,Vermont,Clothing,Fall
+Female,Sneakers,2,Vermont,Footwear,Fall
+Female,Sweater,2,Vermont,Clothing,Winter
+Female,T-shirt,2,Vermont,Clothing,Winter
+Female,Backpack,1,Virginia,Accessories,Summer
+Female,Blouse,1,Virginia,Clothing,Winter
+Female,Boots,1,Virginia,Footwear,Winter
+Female,Coat,1,Virginia,Outerwear,Spring
+Female,Gloves,1,Virginia,Accessories,Winter
+Female,Hat,1,Virginia,Accessories,Winter
+Female,Hoodie,3,Virginia,Clothing,Summer
+Female,Jacket,1,Virginia,Outerwear,Spring
+Female,Jeans,1,Virginia,Clothing,Summer
+Female,Jewelry,1,Virginia,Accessories,Winter
+Female,Pants,1,Virginia,Clothing,Summer
+Female,Sandals,1,Virginia,Footwear,Summer
+Female,Shirt,2,Virginia,Clothing,Spring
+Female,Shorts,3,Virginia,Clothing,Winter
+Female,Skirt,1,Virginia,Clothing,Spring
+Female,Sneakers,1,Virginia,Footwear,Spring
+Female,Socks,1,Virginia,Clothing,Winter
+Female,Sweater,1,Virginia,Clothing,Summer
+Female,T-shirt,1,Virginia,Clothing,Fall
+Female,Belt,1,Washington,Accessories,Summer
+Female,Blouse,2,Washington,Clothing,Summer
+Female,Coat,1,Washington,Outerwear,Winter
+Female,Dress,1,Washington,Clothing,Summer
+Female,Handbag,1,Washington,Accessories,Winter
+Female,Hat,1,Washington,Accessories,Fall
+Female,Jacket,1,Washington,Outerwear,Spring
+Female,Jewelry,2,Washington,Accessories,Winter
+Female,Pants,2,Washington,Clothing,Fall
+Female,Sandals,1,Washington,Footwear,Spring
+Female,Scarf,1,Washington,Accessories,Winter
+Female,Shoes,1,Washington,Footwear,Summer
+Female,Shorts,1,Washington,Clothing,Winter
+Female,Skirt,3,Washington,Clothing,Spring
+Female,Sneakers,1,Washington,Footwear,Spring
+Female,Socks,3,Washington,Clothing,Fall
+Female,T-shirt,2,Washington,Clothing,Summer
+Female,Belt,1,West Virginia,Accessories,Fall
+Female,Blouse,1,West Virginia,Clothing,Summer
+Female,Boots,2,West Virginia,Footwear,Spring
+Female,Coat,2,West Virginia,Outerwear,Spring
+Female,Handbag,4,West Virginia,Accessories,Spring
+Female,Hat,1,West Virginia,Accessories,Spring
+Female,Hoodie,1,West Virginia,Clothing,Winter
+Female,Jeans,1,West Virginia,Clothing,Winter
+Female,Jewelry,2,West Virginia,Accessories,Winter
+Female,Pants,1,West Virginia,Clothing,Winter
+Female,Sandals,2,West Virginia,Footwear,Fall
+Female,Shoes,1,West Virginia,Footwear,Winter
+Female,Shorts,1,West Virginia,Clothing,Fall
+Female,Skirt,1,West Virginia,Clothing,Spring
+Female,Sunglasses,1,West Virginia,Accessories,Spring
+Female,T-shirt,1,West Virginia,Clothing,Spring
+Female,Belt,1,Wisconsin,Accessories,Winter
+Female,Blouse,2,Wisconsin,Clothing,Fall
+Female,Boots,1,Wisconsin,Footwear,Fall
+Female,Dress,2,Wisconsin,Clothing,Summer
+Female,Gloves,1,Wisconsin,Accessories,Winter
+Female,Handbag,2,Wisconsin,Accessories,Summer
+Female,Hoodie,2,Wisconsin,Clothing,Spring
+Female,Jacket,1,Wisconsin,Outerwear,Summer
+Female,Jewelry,1,Wisconsin,Accessories,Spring
+Female,Sandals,1,Wisconsin,Footwear,Spring
+Female,Scarf,2,Wisconsin,Accessories,Fall
+Female,Shoes,2,Wisconsin,Footwear,Winter
+Female,Shorts,1,Wisconsin,Clothing,Winter
+Female,Skirt,1,Wisconsin,Clothing,Fall
+Female,Sneakers,1,Wisconsin,Footwear,Fall
+Female,Socks,1,Wisconsin,Clothing,Fall
+Female,Sunglasses,2,Wisconsin,Accessories,Summer
+Female,Sweater,1,Wisconsin,Clothing,Summer
+Female,Belt,1,Wyoming,Accessories,Fall
+Female,Blouse,1,Wyoming,Clothing,Fall
+Female,Coat,1,Wyoming,Outerwear,Winter
+Female,Hat,1,Wyoming,Accessories,Fall
+Female,Jacket,1,Wyoming,Outerwear,Spring
+Female,Pants,1,Wyoming,Clothing,Winter
+Female,Sandals,1,Wyoming,Footwear,Spring
+Female,Scarf,2,Wyoming,Accessories,Fall
+Female,Shirt,2,Wyoming,Clothing,Winter
+Female,Shoes,1,Wyoming,Footwear,Spring
+Female,Skirt,1,Wyoming,Clothing,Summer
+Female,Sneakers,2,Wyoming,Footwear,Winter
+Female,Sunglasses,3,Wyoming,Accessories,Summer
+Female,Sweater,1,Wyoming,Clothing,Fall
+Female,T-shirt,1,Wyoming,Clothing,Winter
+Male,Backpack,1,Alabama,Accessories,Fall
+Male,Belt,1,Alabama,Accessories,Fall
+Male,Blouse,1,Alabama,Clothing,Winter
+Male,Boots,3,Alabama,Footwear,Fall
+Male,Coat,4,Alabama,Outerwear,Summer
+Male,Dress,3,Alabama,Clothing,Fall
+Male,Gloves,2,Alabama,Accessories,Summer
+Male,Handbag,3,Alabama,Accessories,Winter
+Male,Hat,3,Alabama,Accessories,Summer
+Male,Hoodie,3,Alabama,Clothing,Summer
+Male,Jacket,1,Alabama,Outerwear,Fall
+Male,Jeans,3,Alabama,Clothing,Winter
+Male,Jewelry,4,Alabama,Accessories,Winter
+Male,Pants,4,Alabama,Clothing,Summer
+Male,Sandals,1,Alabama,Footwear,Summer
+Male,Scarf,2,Alabama,Accessories,Winter
+Male,Shirt,4,Alabama,Clothing,Spring
+Male,Shoes,2,Alabama,Footwear,Spring
+Male,Shorts,3,Alabama,Clothing,Fall
+Male,Skirt,6,Alabama,Clothing,Fall
+Male,Sneakers,2,Alabama,Footwear,Spring
+Male,Socks,1,Alabama,Clothing,Summer
+Male,Sunglasses,2,Alabama,Accessories,Spring
+Male,Sweater,1,Alabama,Clothing,Fall
+Male,T-shirt,2,Alabama,Clothing,Spring
+Male,Backpack,3,Alaska,Accessories,Fall
+Male,Belt,3,Alaska,Accessories,Fall
+Male,Blouse,1,Alaska,Clothing,Winter
+Male,Boots,1,Alaska,Footwear,Summer
+Male,Coat,2,Alaska,Outerwear,Winter
+Male,Dress,3,Alaska,Clothing,Fall
+Male,Gloves,1,Alaska,Accessories,Winter
+Male,Handbag,1,Alaska,Accessories,Fall
+Male,Hat,2,Alaska,Accessories,Fall
+Male,Hoodie,1,Alaska,Clothing,Spring
+Male,Jacket,2,Alaska,Outerwear,Fall
+Male,Jeans,1,Alaska,Clothing,Spring
+Male,Jewelry,3,Alaska,Accessories,Summer
+Male,Scarf,2,Alaska,Accessories,Spring
+Male,Shirt,3,Alaska,Clothing,Spring
+Male,Shoes,2,Alaska,Footwear,Spring
+Male,Shorts,2,Alaska,Clothing,Spring
+Male,Sneakers,2,Alaska,Footwear,Summer
+Male,Socks,3,Alaska,Clothing,Spring
+Male,Sunglasses,3,Alaska,Accessories,Winter
+Male,Sweater,3,Alaska,Clothing,Winter
+Male,T-shirt,4,Alaska,Clothing,Summer
+Male,Backpack,5,Arizona,Accessories,Fall
+Male,Belt,1,Arizona,Accessories,Fall
+Male,Blouse,2,Arizona,Clothing,Spring
+Male,Coat,1,Arizona,Outerwear,Spring
+Male,Dress,1,Arizona,Clothing,Winter
+Male,Handbag,1,Arizona,Accessories,Winter
+Male,Hat,1,Arizona,Accessories,Winter
+Male,Hoodie,1,Arizona,Clothing,Fall
+Male,Jacket,2,Arizona,Outerwear,Winter
+Male,Jeans,1,Arizona,Clothing,Winter
+Male,Jewelry,2,Arizona,Accessories,Summer
+Male,Pants,1,Arizona,Clothing,Summer
+Male,Sandals,3,Arizona,Footwear,Spring
+Male,Scarf,1,Arizona,Accessories,Fall
+Male,Shirt,1,Arizona,Clothing,Winter
+Male,Shorts,2,Arizona,Clothing,Summer
+Male,Skirt,2,Arizona,Clothing,Summer
+Male,Sneakers,2,Arizona,Footwear,Fall
+Male,Socks,2,Arizona,Clothing,Fall
+Male,Sunglasses,3,Arizona,Accessories,Winter
+Male,Sweater,3,Arizona,Clothing,Fall
+Male,T-shirt,2,Arizona,Clothing,Spring
+Male,Backpack,3,Arkansas,Accessories,Summer
+Male,Belt,4,Arkansas,Accessories,Spring
+Male,Blouse,2,Arkansas,Clothing,Spring
+Male,Coat,4,Arkansas,Outerwear,Spring
+Male,Dress,3,Arkansas,Clothing,Winter
+Male,Gloves,4,Arkansas,Accessories,Fall
+Male,Handbag,1,Arkansas,Accessories,Summer
+Male,Hat,2,Arkansas,Accessories,Summer
+Male,Hoodie,3,Arkansas,Clothing,Spring
+Male,Jacket,1,Arkansas,Outerwear,Spring
+Male,Jeans,1,Arkansas,Clothing,Summer
+Male,Jewelry,3,Arkansas,Accessories,Spring
+Male,Pants,3,Arkansas,Clothing,Summer
+Male,Sandals,1,Arkansas,Footwear,Fall
+Male,Scarf,1,Arkansas,Accessories,Winter
+Male,Shirt,3,Arkansas,Clothing,Spring
+Male,Shoes,2,Arkansas,Footwear,Fall
+Male,Shorts,2,Arkansas,Clothing,Winter
+Male,Skirt,2,Arkansas,Clothing,Spring
+Male,Sneakers,1,Arkansas,Footwear,Summer
+Male,Socks,2,Arkansas,Clothing,Fall
+Male,Sunglasses,2,Arkansas,Accessories,Spring
+Male,Sweater,3,Arkansas,Clothing,Summer
+Male,T-shirt,1,Arkansas,Clothing,Fall
+Male,Backpack,3,California,Accessories,Fall
+Male,Belt,3,California,Accessories,Winter
+Male,Blouse,2,California,Clothing,Summer
+Male,Boots,2,California,Footwear,Fall
+Male,Coat,2,California,Outerwear,Fall
+Male,Dress,4,California,Clothing,Summer
+Male,Gloves,2,California,Accessories,Spring
+Male,Handbag,3,California,Accessories,Fall
+Male,Hat,3,California,Accessories,Winter
+Male,Hoodie,2,California,Clothing,Fall
+Male,Jacket,3,California,Outerwear,Fall
+Male,Jeans,5,California,Clothing,Winter
+Male,Jewelry,4,California,Accessories,Fall
+Male,Pants,4,California,Clothing,Summer
+Male,Sandals,4,California,Footwear,Winter
+Male,Scarf,4,California,Accessories,Spring
+Male,Shirt,3,California,Clothing,Summer
+Male,Shorts,4,California,Clothing,Winter
+Male,Sneakers,2,California,Footwear,Spring
+Male,Socks,1,California,Clothing,Summer
+Male,Sunglasses,3,California,Accessories,Summer
+Male,Sweater,2,California,Clothing,Fall
+Male,T-shirt,1,California,Clothing,Spring
+Male,Backpack,3,Colorado,Accessories,Fall
+Male,Belt,2,Colorado,Accessories,Spring
+Male,Blouse,2,Colorado,Clothing,Winter
+Male,Coat,1,Colorado,Outerwear,Fall
+Male,Dress,2,Colorado,Clothing,Spring
+Male,Gloves,2,Colorado,Accessories,Summer
+Male,Handbag,1,Colorado,Accessories,Summer
+Male,Hat,2,Colorado,Accessories,Spring
+Male,Hoodie,3,Colorado,Clothing,Winter
+Male,Jacket,4,Colorado,Outerwear,Spring
+Male,Jewelry,1,Colorado,Accessories,Winter
+Male,Pants,5,Colorado,Clothing,Summer
+Male,Sandals,1,Colorado,Footwear,Winter
+Male,Scarf,2,Colorado,Accessories,Spring
+Male,Shoes,3,Colorado,Footwear,Fall
+Male,Shorts,1,Colorado,Clothing,Winter
+Male,Skirt,4,Colorado,Clothing,Fall
+Male,Sneakers,5,Colorado,Footwear,Spring
+Male,Sunglasses,1,Colorado,Accessories,Winter
+Male,Sweater,2,Colorado,Clothing,Winter
+Male,T-shirt,2,Colorado,Clothing,Winter
+Male,Backpack,2,Connecticut,Accessories,Spring
+Male,Belt,2,Connecticut,Accessories,Winter
+Male,Blouse,3,Connecticut,Clothing,Winter
+Male,Boots,1,Connecticut,Footwear,Summer
+Male,Coat,5,Connecticut,Outerwear,Winter
+Male,Dress,4,Connecticut,Clothing,Summer
+Male,Gloves,1,Connecticut,Accessories,Summer
+Male,Handbag,4,Connecticut,Accessories,Spring
+Male,Hat,1,Connecticut,Accessories,Spring
+Male,Hoodie,1,Connecticut,Clothing,Winter
+Male,Jacket,3,Connecticut,Outerwear,Fall
+Male,Jewelry,2,Connecticut,Accessories,Winter
+Male,Pants,2,Connecticut,Clothing,Winter
+Male,Sandals,2,Connecticut,Footwear,Spring
+Male,Scarf,4,Connecticut,Accessories,Spring
+Male,Shirt,3,Connecticut,Clothing,Fall
+Male,Shoes,4,Connecticut,Footwear,Winter
+Male,Shorts,2,Connecticut,Clothing,Winter
+Male,Skirt,3,Connecticut,Clothing,Winter
+Male,T-shirt,2,Connecticut,Clothing,Winter
+Male,Backpack,2,Delaware,Accessories,Fall
+Male,Belt,2,Delaware,Accessories,Winter
+Male,Blouse,2,Delaware,Clothing,Spring
+Male,Boots,2,Delaware,Footwear,Spring
+Male,Coat,1,Delaware,Outerwear,Winter
+Male,Dress,4,Delaware,Clothing,Summer
+Male,Gloves,3,Delaware,Accessories,Spring
+Male,Handbag,2,Delaware,Accessories,Spring
+Male,Hat,4,Delaware,Accessories,Summer
+Male,Hoodie,2,Delaware,Clothing,Winter
+Male,Jeans,2,Delaware,Clothing,Spring
+Male,Jewelry,3,Delaware,Accessories,Fall
+Male,Pants,6,Delaware,Clothing,Summer
+Male,Sandals,4,Delaware,Footwear,Spring
+Male,Scarf,2,Delaware,Accessories,Spring
+Male,Shirt,3,Delaware,Clothing,Spring
+Male,Shoes,3,Delaware,Footwear,Summer
+Male,Shorts,1,Delaware,Clothing,Summer
+Male,Skirt,2,Delaware,Clothing,Fall
+Male,Sneakers,2,Delaware,Footwear,Fall
+Male,Socks,4,Delaware,Clothing,Spring
+Male,Sunglasses,1,Delaware,Accessories,Fall
+Male,Sweater,1,Delaware,Clothing,Summer
+Male,T-shirt,3,Delaware,Clothing,Spring
+Male,Belt,1,Florida,Accessories,Spring
+Male,Blouse,1,Florida,Clothing,Summer
+Male,Boots,2,Florida,Footwear,Spring
+Male,Coat,6,Florida,Outerwear,Fall
+Male,Dress,2,Florida,Clothing,Winter
+Male,Gloves,6,Florida,Accessories,Spring
+Male,Hat,2,Florida,Accessories,Winter
+Male,Hoodie,2,Florida,Clothing,Winter
+Male,Jacket,3,Florida,Outerwear,Fall
+Male,Jeans,2,Florida,Clothing,Summer
+Male,Jewelry,2,Florida,Accessories,Summer
+Male,Pants,2,Florida,Clothing,Spring
+Male,Sandals,1,Florida,Footwear,Summer
+Male,Scarf,1,Florida,Accessories,Summer
+Male,Shirt,2,Florida,Clothing,Fall
+Male,Shorts,2,Florida,Clothing,Winter
+Male,Skirt,1,Florida,Clothing,Spring
+Male,Sneakers,3,Florida,Footwear,Winter
+Male,Socks,1,Florida,Clothing,Summer
+Male,Sunglasses,1,Florida,Accessories,Winter
+Male,Sweater,3,Florida,Clothing,Fall
+Male,T-shirt,2,Florida,Clothing,Fall
+Male,Backpack,4,Georgia,Accessories,Fall
+Male,Belt,1,Georgia,Accessories,Summer
+Male,Blouse,4,Georgia,Clothing,Winter
+Male,Boots,1,Georgia,Footwear,Fall
+Male,Coat,1,Georgia,Outerwear,Summer
+Male,Dress,6,Georgia,Clothing,Winter
+Male,Gloves,1,Georgia,Accessories,Spring
+Male,Hoodie,2,Georgia,Clothing,Summer
+Male,Jeans,1,Georgia,Clothing,Winter
+Male,Jewelry,4,Georgia,Accessories,Summer
+Male,Pants,3,Georgia,Clothing,Spring
+Male,Sandals,1,Georgia,Footwear,Spring
+Male,Scarf,3,Georgia,Accessories,Fall
+Male,Shirt,1,Georgia,Clothing,Winter
+Male,Shoes,3,Georgia,Footwear,Spring
+Male,Skirt,2,Georgia,Clothing,Winter
+Male,Sneakers,4,Georgia,Footwear,Winter
+Male,Socks,4,Georgia,Clothing,Spring
+Male,Sunglasses,1,Georgia,Accessories,Winter
+Male,Sweater,2,Georgia,Clothing,Spring
+Male,Backpack,1,Hawaii,Accessories,Winter
+Male,Belt,2,Hawaii,Accessories,Spring
+Male,Blouse,4,Hawaii,Clothing,Summer
+Male,Boots,1,Hawaii,Footwear,Summer
+Male,Coat,1,Hawaii,Outerwear,Fall
+Male,Dress,1,Hawaii,Clothing,Spring
+Male,Handbag,5,Hawaii,Accessories,Spring
+Male,Hat,3,Hawaii,Accessories,Fall
+Male,Hoodie,4,Hawaii,Clothing,Summer
+Male,Jacket,4,Hawaii,Outerwear,Summer
+Male,Jeans,2,Hawaii,Clothing,Spring
+Male,Jewelry,1,Hawaii,Accessories,Winter
+Male,Pants,2,Hawaii,Clothing,Spring
+Male,Sandals,1,Hawaii,Footwear,Winter
+Male,Shirt,3,Hawaii,Clothing,Winter
+Male,Shoes,3,Hawaii,Footwear,Summer
+Male,Shorts,1,Hawaii,Clothing,Winter
+Male,Skirt,3,Hawaii,Clothing,Winter
+Male,Sneakers,3,Hawaii,Footwear,Spring
+Male,Sunglasses,2,Hawaii,Accessories,Summer
+Male,Sweater,2,Hawaii,Clothing,Spring
+Male,T-shirt,2,Hawaii,Clothing,Fall
+Male,Backpack,4,Idaho,Accessories,Fall
+Male,Belt,4,Idaho,Accessories,Summer
+Male,Blouse,1,Idaho,Clothing,Spring
+Male,Boots,3,Idaho,Footwear,Fall
+Male,Coat,4,Idaho,Outerwear,Fall
+Male,Dress,1,Idaho,Clothing,Spring
+Male,Gloves,1,Idaho,Accessories,Spring
+Male,Handbag,2,Idaho,Accessories,Fall
+Male,Hat,3,Idaho,Accessories,Summer
+Male,Hoodie,2,Idaho,Clothing,Spring
+Male,Jacket,2,Idaho,Outerwear,Summer
+Male,Jewelry,2,Idaho,Accessories,Winter
+Male,Pants,3,Idaho,Clothing,Winter
+Male,Sandals,2,Idaho,Footwear,Fall
+Male,Scarf,1,Idaho,Accessories,Fall
+Male,Shirt,3,Idaho,Clothing,Winter
+Male,Shoes,2,Idaho,Footwear,Summer
+Male,Shorts,2,Idaho,Clothing,Fall
+Male,Skirt,3,Idaho,Clothing,Fall
+Male,Sneakers,4,Idaho,Footwear,Fall
+Male,Socks,2,Idaho,Clothing,Spring
+Male,Sunglasses,2,Idaho,Accessories,Fall
+Male,Sweater,3,Idaho,Clothing,Summer
+Male,T-shirt,3,Idaho,Clothing,Spring
+Male,Backpack,2,Illinois,Accessories,Winter
+Male,Belt,2,Illinois,Accessories,Winter
+Male,Blouse,2,Illinois,Clothing,Spring
+Male,Boots,3,Illinois,Footwear,Fall
+Male,Dress,2,Illinois,Clothing,Winter
+Male,Gloves,2,Illinois,Accessories,Fall
+Male,Handbag,4,Illinois,Accessories,Winter
+Male,Hat,1,Illinois,Accessories,Spring
+Male,Hoodie,1,Illinois,Clothing,Spring
+Male,Jacket,5,Illinois,Outerwear,Fall
+Male,Jeans,4,Illinois,Clothing,Fall
+Male,Jewelry,3,Illinois,Accessories,Winter
+Male,Pants,3,Illinois,Clothing,Winter
+Male,Sandals,1,Illinois,Footwear,Spring
+Male,Scarf,3,Illinois,Accessories,Fall
+Male,Shirt,5,Illinois,Clothing,Spring
+Male,Shoes,2,Illinois,Footwear,Summer
+Male,Shorts,4,Illinois,Clothing,Summer
+Male,Skirt,2,Illinois,Clothing,Spring
+Male,Sneakers,3,Illinois,Footwear,Winter
+Male,Socks,2,Illinois,Clothing,Spring
+Male,Sweater,4,Illinois,Clothing,Spring
+Male,T-shirt,2,Illinois,Clothing,Winter
+Male,Backpack,1,Indiana,Accessories,Summer
+Male,Belt,4,Indiana,Accessories,Spring
+Male,Blouse,2,Indiana,Clothing,Winter
+Male,Boots,2,Indiana,Footwear,Winter
+Male,Coat,2,Indiana,Outerwear,Fall
+Male,Gloves,3,Indiana,Accessories,Spring
+Male,Handbag,1,Indiana,Accessories,Winter
+Male,Hat,4,Indiana,Accessories,Winter
+Male,Hoodie,1,Indiana,Clothing,Fall
+Male,Jacket,4,Indiana,Outerwear,Spring
+Male,Jeans,4,Indiana,Clothing,Summer
+Male,Jewelry,2,Indiana,Accessories,Summer
+Male,Pants,3,Indiana,Clothing,Summer
+Male,Sandals,2,Indiana,Footwear,Spring
+Male,Scarf,3,Indiana,Accessories,Fall
+Male,Shirt,3,Indiana,Clothing,Fall
+Male,Shorts,2,Indiana,Clothing,Spring
+Male,Skirt,6,Indiana,Clothing,Winter
+Male,Socks,5,Indiana,Clothing,Spring
+Male,Sunglasses,2,Indiana,Accessories,Winter
+Male,Sweater,3,Indiana,Clothing,Fall
+Male,T-shirt,3,Indiana,Clothing,Summer
+Male,Belt,5,Iowa,Accessories,Winter
+Male,Blouse,2,Iowa,Clothing,Fall
+Male,Boots,3,Iowa,Footwear,Fall
+Male,Coat,3,Iowa,Outerwear,Summer
+Male,Dress,1,Iowa,Clothing,Summer
+Male,Gloves,2,Iowa,Accessories,Summer
+Male,Handbag,1,Iowa,Accessories,Winter
+Male,Hat,5,Iowa,Accessories,Spring
+Male,Jacket,4,Iowa,Outerwear,Winter
+Male,Jeans,1,Iowa,Clothing,Summer
+Male,Jewelry,1,Iowa,Accessories,Summer
+Male,Pants,1,Iowa,Clothing,Summer
+Male,Sandals,3,Iowa,Footwear,Winter
+Male,Scarf,1,Iowa,Accessories,Winter
+Male,Shirt,1,Iowa,Clothing,Fall
+Male,Shoes,2,Iowa,Footwear,Winter
+Male,Shorts,4,Iowa,Clothing,Summer
+Male,Skirt,1,Iowa,Clothing,Spring
+Male,Sneakers,3,Iowa,Footwear,Fall
+Male,Socks,1,Iowa,Clothing,Winter
+Male,Sweater,5,Iowa,Clothing,Spring
+Male,T-shirt,2,Iowa,Clothing,Fall
+Male,Blouse,3,Kansas,Clothing,Fall
+Male,Boots,2,Kansas,Footwear,Winter
+Male,Coat,2,Kansas,Outerwear,Spring
+Male,Dress,1,Kansas,Clothing,Fall
+Male,Gloves,1,Kansas,Accessories,Fall
+Male,Hoodie,2,Kansas,Clothing,Fall
+Male,Jacket,2,Kansas,Outerwear,Summer
+Male,Jewelry,4,Kansas,Accessories,Summer
+Male,Pants,2,Kansas,Clothing,Winter
+Male,Sandals,3,Kansas,Footwear,Fall
+Male,Shirt,1,Kansas,Clothing,Spring
+Male,Shorts,2,Kansas,Clothing,Spring
+Male,Sneakers,1,Kansas,Footwear,Spring
+Male,Socks,1,Kansas,Clothing,Winter
+Male,Sunglasses,3,Kansas,Accessories,Fall
+Male,T-shirt,3,Kansas,Clothing,Spring
+Male,Backpack,3,Kentucky,Accessories,Fall
+Male,Belt,1,Kentucky,Accessories,Summer
+Male,Blouse,1,Kentucky,Clothing,Winter
+Male,Boots,1,Kentucky,Footwear,Spring
+Male,Coat,3,Kentucky,Outerwear,Spring
+Male,Dress,3,Kentucky,Clothing,Fall
+Male,Gloves,3,Kentucky,Accessories,Winter
+Male,Handbag,4,Kentucky,Accessories,Winter
+Male,Hat,3,Kentucky,Accessories,Summer
+Male,Jacket,3,Kentucky,Outerwear,Spring
+Male,Jeans,2,Kentucky,Clothing,Winter
+Male,Jewelry,4,Kentucky,Accessories,Winter
+Male,Pants,2,Kentucky,Clothing,Spring
+Male,Scarf,3,Kentucky,Accessories,Fall
+Male,Shirt,3,Kentucky,Clothing,Winter
+Male,Shoes,1,Kentucky,Footwear,Summer
+Male,Shorts,1,Kentucky,Clothing,Summer
+Male,Skirt,2,Kentucky,Clothing,Winter
+Male,Socks,1,Kentucky,Clothing,Summer
+Male,Sweater,5,Kentucky,Clothing,Fall
+Male,Backpack,4,Louisiana,Accessories,Summer
+Male,Belt,3,Louisiana,Accessories,Spring
+Male,Blouse,1,Louisiana,Clothing,Spring
+Male,Dress,1,Louisiana,Clothing,Winter
+Male,Handbag,2,Louisiana,Accessories,Winter
+Male,Hat,1,Louisiana,Accessories,Fall
+Male,Hoodie,4,Louisiana,Clothing,Summer
+Male,Jacket,1,Louisiana,Outerwear,Winter
+Male,Jeans,1,Louisiana,Clothing,Fall
+Male,Jewelry,7,Louisiana,Accessories,Summer
+Male,Pants,5,Louisiana,Clothing,Winter
+Male,Scarf,1,Louisiana,Accessories,Spring
+Male,Shirt,5,Louisiana,Clothing,Winter
+Male,Shoes,3,Louisiana,Footwear,Summer
+Male,Shorts,2,Louisiana,Clothing,Winter
+Male,Skirt,1,Louisiana,Clothing,Summer
+Male,Sneakers,2,Louisiana,Footwear,Spring
+Male,Socks,3,Louisiana,Clothing,Spring
+Male,Sunglasses,1,Louisiana,Accessories,Winter
+Male,Sweater,5,Louisiana,Clothing,Fall
+Male,T-shirt,4,Louisiana,Clothing,Winter
+Male,Blouse,3,Maine,Clothing,Fall
+Male,Boots,2,Maine,Footwear,Fall
+Male,Coat,2,Maine,Outerwear,Summer
+Male,Gloves,1,Maine,Accessories,Fall
+Male,Handbag,2,Maine,Accessories,Winter
+Male,Hat,1,Maine,Accessories,Summer
+Male,Hoodie,1,Maine,Clothing,Winter
+Male,Jacket,3,Maine,Outerwear,Summer
+Male,Jeans,3,Maine,Clothing,Spring
+Male,Jewelry,1,Maine,Accessories,Winter
+Male,Pants,1,Maine,Clothing,Winter
+Male,Sandals,2,Maine,Footwear,Fall
+Male,Scarf,3,Maine,Accessories,Spring
+Male,Shirt,2,Maine,Clothing,Fall
+Male,Shoes,5,Maine,Footwear,Summer
+Male,Shorts,3,Maine,Clothing,Spring
+Male,Skirt,2,Maine,Clothing,Summer
+Male,Sneakers,3,Maine,Footwear,Fall
+Male,Socks,3,Maine,Clothing,Spring
+Male,Sunglasses,2,Maine,Accessories,Winter
+Male,Sweater,4,Maine,Clothing,Winter
+Male,T-shirt,1,Maine,Clothing,Spring
+Male,Backpack,1,Maryland,Accessories,Spring
+Male,Belt,5,Maryland,Accessories,Spring
+Male,Blouse,3,Maryland,Clothing,Spring
+Male,Boots,2,Maryland,Footwear,Summer
+Male,Coat,1,Maryland,Outerwear,Fall
+Male,Dress,2,Maryland,Clothing,Summer
+Male,Gloves,4,Maryland,Accessories,Spring
+Male,Handbag,1,Maryland,Accessories,Fall
+Male,Hat,1,Maryland,Accessories,Winter
+Male,Hoodie,2,Maryland,Clothing,Fall
+Male,Jacket,3,Maryland,Outerwear,Spring
+Male,Jeans,2,Maryland,Clothing,Winter
+Male,Jewelry,2,Maryland,Accessories,Spring
+Male,Pants,1,Maryland,Clothing,Fall
+Male,Sandals,4,Maryland,Footwear,Summer
+Male,Scarf,3,Maryland,Accessories,Spring
+Male,Shoes,2,Maryland,Footwear,Summer
+Male,Skirt,5,Maryland,Clothing,Fall
+Male,Sneakers,2,Maryland,Footwear,Winter
+Male,Socks,3,Maryland,Clothing,Fall
+Male,Sunglasses,4,Maryland,Accessories,Summer
+Male,Sweater,2,Maryland,Clothing,Spring
+Male,T-shirt,3,Maryland,Clothing,Winter
+Male,Backpack,3,Massachusetts,Accessories,Summer
+Male,Belt,2,Massachusetts,Accessories,Summer
+Male,Blouse,2,Massachusetts,Clothing,Summer
+Male,Boots,3,Massachusetts,Footwear,Spring
+Male,Coat,3,Massachusetts,Outerwear,Summer
+Male,Dress,5,Massachusetts,Clothing,Winter
+Male,Gloves,2,Massachusetts,Accessories,Spring
+Male,Handbag,1,Massachusetts,Accessories,Winter
+Male,Hat,1,Massachusetts,Accessories,Fall
+Male,Hoodie,1,Massachusetts,Clothing,Winter
+Male,Jacket,2,Massachusetts,Outerwear,Summer
+Male,Jeans,4,Massachusetts,Clothing,Spring
+Male,Jewelry,1,Massachusetts,Accessories,Summer
+Male,Pants,3,Massachusetts,Clothing,Summer
+Male,Sandals,3,Massachusetts,Footwear,Summer
+Male,Shirt,2,Massachusetts,Clothing,Winter
+Male,Shoes,2,Massachusetts,Footwear,Summer
+Male,Shorts,2,Massachusetts,Clothing,Spring
+Male,Skirt,2,Massachusetts,Clothing,Winter
+Male,Sneakers,1,Massachusetts,Footwear,Winter
+Male,Socks,4,Massachusetts,Clothing,Summer
+Male,Sunglasses,3,Massachusetts,Accessories,Summer
+Male,Sweater,1,Massachusetts,Clothing,Fall
+Male,T-shirt,3,Massachusetts,Clothing,Spring
+Male,Backpack,3,Michigan,Accessories,Spring
+Male,Belt,3,Michigan,Accessories,Winter
+Male,Blouse,1,Michigan,Clothing,Fall
+Male,Coat,1,Michigan,Outerwear,Spring
+Male,Dress,3,Michigan,Clothing,Spring
+Male,Handbag,2,Michigan,Accessories,Fall
+Male,Hoodie,2,Michigan,Clothing,Winter
+Male,Jacket,7,Michigan,Outerwear,Winter
+Male,Jeans,1,Michigan,Clothing,Summer
+Male,Pants,3,Michigan,Clothing,Summer
+Male,Sandals,6,Michigan,Footwear,Fall
+Male,Scarf,1,Michigan,Accessories,Summer
+Male,Shirt,4,Michigan,Clothing,Fall
+Male,Shoes,1,Michigan,Footwear,Summer
+Male,Shorts,2,Michigan,Clothing,Summer
+Male,Sneakers,1,Michigan,Footwear,Winter
+Male,Sunglasses,5,Michigan,Accessories,Fall
+Male,Sweater,2,Michigan,Clothing,Summer
+Male,T-shirt,1,Michigan,Clothing,Fall
+Male,Backpack,3,Minnesota,Accessories,Summer
+Male,Belt,1,Minnesota,Accessories,Summer
+Male,Blouse,4,Minnesota,Clothing,Winter
+Male,Boots,1,Minnesota,Footwear,Summer
+Male,Dress,3,Minnesota,Clothing,Spring
+Male,Gloves,3,Minnesota,Accessories,Spring
+Male,Handbag,4,Minnesota,Accessories,Winter
+Male,Hat,1,Minnesota,Accessories,Summer
+Male,Hoodie,2,Minnesota,Clothing,Fall
+Male,Jacket,1,Minnesota,Outerwear,Summer
+Male,Jewelry,3,Minnesota,Accessories,Winter
+Male,Pants,2,Minnesota,Clothing,Fall
+Male,Sandals,3,Minnesota,Footwear,Winter
+Male,Shirt,4,Minnesota,Clothing,Fall
+Male,Shoes,1,Minnesota,Footwear,Winter
+Male,Shorts,3,Minnesota,Clothing,Winter
+Male,Skirt,8,Minnesota,Clothing,Summer
+Male,Sneakers,5,Minnesota,Footwear,Summer
+Male,Socks,2,Minnesota,Clothing,Summer
+Male,Sunglasses,3,Minnesota,Accessories,Winter
+Male,Sweater,1,Minnesota,Clothing,Spring
+Male,T-shirt,2,Minnesota,Clothing,Fall
+Male,Backpack,2,Mississippi,Accessories,Summer
+Male,Belt,2,Mississippi,Accessories,Fall
+Male,Blouse,4,Mississippi,Clothing,Summer
+Male,Boots,2,Mississippi,Footwear,Summer
+Male,Coat,3,Mississippi,Outerwear,Winter
+Male,Dress,5,Mississippi,Clothing,Winter
+Male,Handbag,5,Mississippi,Accessories,Fall
+Male,Hat,3,Mississippi,Accessories,Spring
+Male,Hoodie,1,Mississippi,Clothing,Winter
+Male,Jacket,2,Mississippi,Outerwear,Summer
+Male,Jeans,1,Mississippi,Clothing,Spring
+Male,Jewelry,4,Mississippi,Accessories,Fall
+Male,Pants,2,Mississippi,Clothing,Spring
+Male,Sandals,1,Mississippi,Footwear,Fall
+Male,Scarf,3,Mississippi,Accessories,Summer
+Male,Shirt,4,Mississippi,Clothing,Winter
+Male,Shorts,3,Mississippi,Clothing,Spring
+Male,Skirt,2,Mississippi,Clothing,Winter
+Male,Sneakers,1,Mississippi,Footwear,Spring
+Male,Sunglasses,3,Mississippi,Accessories,Summer
+Male,Sweater,2,Mississippi,Clothing,Winter
+Male,Backpack,1,Missouri,Accessories,Spring
+Male,Blouse,1,Missouri,Clothing,Fall
+Male,Boots,2,Missouri,Footwear,Summer
+Male,Coat,2,Missouri,Outerwear,Fall
+Male,Dress,1,Missouri,Clothing,Fall
+Male,Gloves,2,Missouri,Accessories,Summer
+Male,Handbag,2,Missouri,Accessories,Spring
+Male,Hat,2,Missouri,Accessories,Summer
+Male,Hoodie,2,Missouri,Clothing,Summer
+Male,Jacket,2,Missouri,Outerwear,Summer
+Male,Jeans,5,Missouri,Clothing,Summer
+Male,Jewelry,4,Missouri,Accessories,Fall
+Male,Pants,4,Missouri,Clothing,Summer
+Male,Sandals,1,Missouri,Footwear,Winter
+Male,Scarf,4,Missouri,Accessories,Winter
+Male,Shirt,3,Missouri,Clothing,Spring
+Male,Shoes,2,Missouri,Footwear,Winter
+Male,Shorts,5,Missouri,Clothing,Fall
+Male,Skirt,4,Missouri,Clothing,Winter
+Male,Sneakers,3,Missouri,Footwear,Fall
+Male,Socks,1,Missouri,Clothing,Fall
+Male,Sunglasses,4,Missouri,Accessories,Summer
+Male,Sweater,3,Missouri,Clothing,Winter
+Male,T-shirt,3,Missouri,Clothing,Fall
+Male,Backpack,3,Montana,Accessories,Spring
+Male,Belt,3,Montana,Accessories,Summer
+Male,Blouse,1,Montana,Clothing,Spring
+Male,Boots,4,Montana,Footwear,Winter
+Male,Coat,6,Montana,Outerwear,Winter
+Male,Dress,1,Montana,Clothing,Winter
+Male,Gloves,1,Montana,Accessories,Winter
+Male,Handbag,4,Montana,Accessories,Summer
+Male,Hat,2,Montana,Accessories,Winter
+Male,Jeans,4,Montana,Clothing,Summer
+Male,Jewelry,1,Montana,Accessories,Winter
+Male,Pants,2,Montana,Clothing,Winter
+Male,Sandals,3,Montana,Footwear,Fall
+Male,Scarf,2,Montana,Accessories,Summer
+Male,Shirt,2,Montana,Clothing,Fall
+Male,Shoes,1,Montana,Footwear,Summer
+Male,Shorts,2,Montana,Clothing,Spring
+Male,Skirt,2,Montana,Clothing,Winter
+Male,Sneakers,2,Montana,Footwear,Spring
+Male,Socks,2,Montana,Clothing,Spring
+Male,Sunglasses,1,Montana,Accessories,Fall
+Male,Sweater,6,Montana,Clothing,Summer
+Male,T-shirt,3,Montana,Clothing,Fall
+Male,Backpack,5,Nebraska,Accessories,Spring
+Male,Belt,3,Nebraska,Accessories,Fall
+Male,Blouse,1,Nebraska,Clothing,Summer
+Male,Boots,3,Nebraska,Footwear,Fall
+Male,Coat,2,Nebraska,Outerwear,Winter
+Male,Dress,3,Nebraska,Clothing,Fall
+Male,Gloves,3,Nebraska,Accessories,Winter
+Male,Handbag,3,Nebraska,Accessories,Winter
+Male,Hat,4,Nebraska,Accessories,Spring
+Male,Hoodie,1,Nebraska,Clothing,Summer
+Male,Jacket,1,Nebraska,Outerwear,Fall
+Male,Jeans,3,Nebraska,Clothing,Fall
+Male,Jewelry,5,Nebraska,Accessories,Summer
+Male,Pants,3,Nebraska,Clothing,Fall
+Male,Sandals,5,Nebraska,Footwear,Summer
+Male,Scarf,2,Nebraska,Accessories,Spring
+Male,Shirt,1,Nebraska,Clothing,Winter
+Male,Shoes,3,Nebraska,Footwear,Summer
+Male,Shorts,2,Nebraska,Clothing,Fall
+Male,Skirt,1,Nebraska,Clothing,Spring
+Male,Socks,2,Nebraska,Clothing,Spring
+Male,Sunglasses,1,Nebraska,Accessories,Spring
+Male,T-shirt,1,Nebraska,Clothing,Winter
+Male,Backpack,5,Nevada,Accessories,Summer
+Male,Belt,4,Nevada,Accessories,Spring
+Male,Boots,4,Nevada,Footwear,Winter
+Male,Coat,1,Nevada,Outerwear,Summer
+Male,Dress,1,Nevada,Clothing,Winter
+Male,Gloves,1,Nevada,Accessories,Winter
+Male,Handbag,3,Nevada,Accessories,Fall
+Male,Hat,1,Nevada,Accessories,Summer
+Male,Hoodie,2,Nevada,Clothing,Spring
+Male,Jacket,2,Nevada,Outerwear,Summer
+Male,Jeans,2,Nevada,Clothing,Winter
+Male,Jewelry,4,Nevada,Accessories,Spring
+Male,Pants,3,Nevada,Clothing,Spring
+Male,Sandals,1,Nevada,Footwear,Fall
+Male,Shirt,2,Nevada,Clothing,Summer
+Male,Shoes,3,Nevada,Footwear,Fall
+Male,Shorts,4,Nevada,Clothing,Summer
+Male,Skirt,3,Nevada,Clothing,Spring
+Male,Sneakers,3,Nevada,Footwear,Winter
+Male,Socks,4,Nevada,Clothing,Summer
+Male,Sunglasses,2,Nevada,Accessories,Spring
+Male,Sweater,1,Nevada,Clothing,Spring
+Male,T-shirt,2,Nevada,Clothing,Spring
+Male,Backpack,4,New Hampshire,Accessories,Spring
+Male,Blouse,5,New Hampshire,Clothing,Winter
+Male,Boots,3,New Hampshire,Footwear,Spring
+Male,Coat,4,New Hampshire,Outerwear,Fall
+Male,Dress,3,New Hampshire,Clothing,Spring
+Male,Gloves,3,New Hampshire,Accessories,Fall
+Male,Handbag,2,New Hampshire,Accessories,Fall
+Male,Hat,4,New Hampshire,Accessories,Winter
+Male,Hoodie,3,New Hampshire,Clothing,Winter
+Male,Jacket,1,New Hampshire,Outerwear,Fall
+Male,Jeans,1,New Hampshire,Clothing,Winter
+Male,Jewelry,3,New Hampshire,Accessories,Fall
+Male,Scarf,3,New Hampshire,Accessories,Spring
+Male,Shirt,2,New Hampshire,Clothing,Spring
+Male,Shoes,1,New Hampshire,Footwear,Summer
+Male,Skirt,1,New Hampshire,Clothing,Fall
+Male,Sneakers,1,New Hampshire,Footwear,Summer
+Male,Socks,2,New Hampshire,Clothing,Spring
+Male,Sunglasses,2,New Hampshire,Accessories,Spring
+Male,Sweater,1,New Hampshire,Clothing,Fall
+Male,T-shirt,1,New Hampshire,Clothing,Fall
+Male,Backpack,1,New Jersey,Accessories,Spring
+Male,Belt,5,New Jersey,Accessories,Spring
+Male,Blouse,2,New Jersey,Clothing,Fall
+Male,Coat,1,New Jersey,Outerwear,Spring
+Male,Gloves,1,New Jersey,Accessories,Fall
+Male,Handbag,1,New Jersey,Accessories,Spring
+Male,Hat,1,New Jersey,Accessories,Winter
+Male,Hoodie,3,New Jersey,Clothing,Spring
+Male,Jacket,3,New Jersey,Outerwear,Summer
+Male,Pants,2,New Jersey,Clothing,Summer
+Male,Sandals,2,New Jersey,Footwear,Summer
+Male,Scarf,4,New Jersey,Accessories,Spring
+Male,Shirt,1,New Jersey,Clothing,Winter
+Male,Shoes,2,New Jersey,Footwear,Fall
+Male,Shorts,3,New Jersey,Clothing,Summer
+Male,Skirt,1,New Jersey,Clothing,Spring
+Male,Sneakers,1,New Jersey,Footwear,Spring
+Male,Socks,2,New Jersey,Clothing,Summer
+Male,Sunglasses,4,New Jersey,Accessories,Winter
+Male,Sweater,3,New Jersey,Clothing,Fall
+Male,Backpack,3,New Mexico,Accessories,Fall
+Male,Belt,2,New Mexico,Accessories,Fall
+Male,Blouse,2,New Mexico,Clothing,Spring
+Male,Boots,1,New Mexico,Footwear,Summer
+Male,Coat,4,New Mexico,Outerwear,Summer
+Male,Handbag,2,New Mexico,Accessories,Fall
+Male,Hat,2,New Mexico,Accessories,Winter
+Male,Hoodie,4,New Mexico,Clothing,Winter
+Male,Jacket,3,New Mexico,Outerwear,Fall
+Male,Jeans,1,New Mexico,Clothing,Spring
+Male,Jewelry,4,New Mexico,Accessories,Summer
+Male,Pants,2,New Mexico,Clothing,Spring
+Male,Sandals,4,New Mexico,Footwear,Fall
+Male,Scarf,4,New Mexico,Accessories,Fall
+Male,Shirt,2,New Mexico,Clothing,Winter
+Male,Shoes,4,New Mexico,Footwear,Winter
+Male,Shorts,1,New Mexico,Clothing,Summer
+Male,Skirt,2,New Mexico,Clothing,Winter
+Male,Sneakers,3,New Mexico,Footwear,Summer
+Male,Socks,1,New Mexico,Clothing,Spring
+Male,Sunglasses,5,New Mexico,Accessories,Winter
+Male,Sweater,3,New Mexico,Clothing,Winter
+Male,T-shirt,2,New Mexico,Clothing,Summer
+Male,Backpack,3,New York,Accessories,Fall
+Male,Belt,2,New York,Accessories,Winter
+Male,Blouse,3,New York,Clothing,Summer
+Male,Boots,2,New York,Footwear,Winter
+Male,Coat,3,New York,Outerwear,Winter
+Male,Dress,4,New York,Clothing,Fall
+Male,Gloves,5,New York,Accessories,Spring
+Male,Handbag,3,New York,Accessories,Summer
+Male,Hat,1,New York,Accessories,Fall
+Male,Hoodie,2,New York,Clothing,Winter
+Male,Jacket,2,New York,Outerwear,Fall
+Male,Jeans,3,New York,Clothing,Spring
+Male,Jewelry,2,New York,Accessories,Summer
+Male,Sandals,3,New York,Footwear,Summer
+Male,Scarf,3,New York,Accessories,Spring
+Male,Shirt,4,New York,Clothing,Winter
+Male,Shoes,4,New York,Footwear,Spring
+Male,Shorts,3,New York,Clothing,Summer
+Male,Skirt,1,New York,Clothing,Winter
+Male,Socks,2,New York,Clothing,Winter
+Male,Sunglasses,1,New York,Accessories,Summer
+Male,Sweater,2,New York,Clothing,Summer
+Male,T-shirt,4,New York,Clothing,Winter
+Male,Blouse,2,North Carolina,Clothing,Fall
+Male,Boots,1,North Carolina,Footwear,Spring
+Male,Coat,1,North Carolina,Outerwear,Summer
+Male,Dress,2,North Carolina,Clothing,Summer
+Male,Gloves,5,North Carolina,Accessories,Spring
+Male,Handbag,3,North Carolina,Accessories,Fall
+Male,Hat,1,North Carolina,Accessories,Summer
+Male,Hoodie,4,North Carolina,Clothing,Winter
+Male,Jacket,3,North Carolina,Outerwear,Winter
+Male,Jeans,1,North Carolina,Clothing,Fall
+Male,Jewelry,2,North Carolina,Accessories,Winter
+Male,Pants,3,North Carolina,Clothing,Winter
+Male,Sandals,3,North Carolina,Footwear,Spring
+Male,Scarf,2,North Carolina,Accessories,Summer
+Male,Shirt,2,North Carolina,Clothing,Fall
+Male,Shoes,1,North Carolina,Footwear,Spring
+Male,Shorts,3,North Carolina,Clothing,Spring
+Male,Skirt,2,North Carolina,Clothing,Spring
+Male,Sneakers,1,North Carolina,Footwear,Winter
+Male,Socks,2,North Carolina,Clothing,Spring
+Male,Sunglasses,3,North Carolina,Accessories,Fall
+Male,Sweater,4,North Carolina,Clothing,Spring
+Male,T-shirt,4,North Carolina,Clothing,Winter
+Male,Backpack,1,North Dakota,Accessories,Fall
+Male,Belt,5,North Dakota,Accessories,Fall
+Male,Blouse,4,North Dakota,Clothing,Fall
+Male,Boots,4,North Dakota,Footwear,Fall
+Male,Coat,5,North Dakota,Outerwear,Spring
+Male,Dress,2,North Dakota,Clothing,Winter
+Male,Hat,2,North Dakota,Accessories,Winter
+Male,Hoodie,2,North Dakota,Clothing,Fall
+Male,Jacket,3,North Dakota,Outerwear,Summer
+Male,Jeans,3,North Dakota,Clothing,Fall
+Male,Jewelry,1,North Dakota,Accessories,Summer
+Male,Pants,2,North Dakota,Clothing,Fall
+Male,Sandals,2,North Dakota,Footwear,Summer
+Male,Scarf,4,North Dakota,Accessories,Spring
+Male,Shoes,3,North Dakota,Footwear,Summer
+Male,Shorts,1,North Dakota,Clothing,Summer
+Male,Sneakers,1,North Dakota,Footwear,Summer
+Male,Socks,3,North Dakota,Clothing,Spring
+Male,Sunglasses,5,North Dakota,Accessories,Fall
+Male,Sweater,4,North Dakota,Clothing,Winter
+Male,T-shirt,2,North Dakota,Clothing,Spring
+Male,Backpack,1,Ohio,Accessories,Spring
+Male,Blouse,2,Ohio,Clothing,Spring
+Male,Boots,4,Ohio,Footwear,Winter
+Male,Coat,1,Ohio,Outerwear,Spring
+Male,Dress,1,Ohio,Clothing,Fall
+Male,Gloves,4,Ohio,Accessories,Fall
+Male,Handbag,2,Ohio,Accessories,Winter
+Male,Hat,1,Ohio,Accessories,Fall
+Male,Hoodie,1,Ohio,Clothing,Fall
+Male,Jewelry,5,Ohio,Accessories,Spring
+Male,Pants,3,Ohio,Clothing,Winter
+Male,Sandals,2,Ohio,Footwear,Spring
+Male,Scarf,5,Ohio,Accessories,Fall
+Male,Shoes,3,Ohio,Footwear,Fall
+Male,Shorts,1,Ohio,Clothing,Winter
+Male,Skirt,4,Ohio,Clothing,Spring
+Male,Sneakers,3,Ohio,Footwear,Summer
+Male,Socks,2,Ohio,Clothing,Fall
+Male,Sweater,2,Ohio,Clothing,Fall
+Male,T-shirt,2,Ohio,Clothing,Spring
+Male,Belt,2,Oklahoma,Accessories,Spring
+Male,Boots,2,Oklahoma,Footwear,Winter
+Male,Coat,2,Oklahoma,Outerwear,Fall
+Male,Dress,1,Oklahoma,Clothing,Fall
+Male,Handbag,3,Oklahoma,Accessories,Spring
+Male,Hat,1,Oklahoma,Accessories,Winter
+Male,Hoodie,6,Oklahoma,Clothing,Fall
+Male,Jacket,4,Oklahoma,Outerwear,Fall
+Male,Jeans,1,Oklahoma,Clothing,Fall
+Male,Jewelry,1,Oklahoma,Accessories,Summer
+Male,Pants,3,Oklahoma,Clothing,Winter
+Male,Sandals,1,Oklahoma,Footwear,Spring
+Male,Scarf,2,Oklahoma,Accessories,Winter
+Male,Shirt,2,Oklahoma,Clothing,Winter
+Male,Shoes,3,Oklahoma,Footwear,Spring
+Male,Shorts,5,Oklahoma,Clothing,Summer
+Male,Skirt,2,Oklahoma,Clothing,Summer
+Male,Sneakers,1,Oklahoma,Footwear,Winter
+Male,Socks,4,Oklahoma,Clothing,Winter
+Male,Sunglasses,3,Oklahoma,Accessories,Winter
+Male,T-shirt,3,Oklahoma,Clothing,Fall
+Male,Backpack,1,Oregon,Accessories,Summer
+Male,Belt,5,Oregon,Accessories,Spring
+Male,Blouse,3,Oregon,Clothing,Spring
+Male,Boots,2,Oregon,Footwear,Winter
+Male,Coat,2,Oregon,Outerwear,Spring
+Male,Dress,2,Oregon,Clothing,Winter
+Male,Gloves,1,Oregon,Accessories,Summer
+Male,Hat,2,Oregon,Accessories,Winter
+Male,Hoodie,1,Oregon,Clothing,Summer
+Male,Jacket,3,Oregon,Outerwear,Fall
+Male,Jeans,4,Oregon,Clothing,Spring
+Male,Jewelry,2,Oregon,Accessories,Summer
+Male,Pants,1,Oregon,Clothing,Winter
+Male,Sandals,3,Oregon,Footwear,Summer
+Male,Scarf,3,Oregon,Accessories,Winter
+Male,Shirt,3,Oregon,Clothing,Winter
+Male,Shoes,1,Oregon,Footwear,Summer
+Male,Shorts,1,Oregon,Clothing,Summer
+Male,Skirt,1,Oregon,Clothing,Spring
+Male,Sneakers,3,Oregon,Footwear,Spring
+Male,Socks,2,Oregon,Clothing,Spring
+Male,Sunglasses,2,Oregon,Accessories,Summer
+Male,Sweater,2,Oregon,Clothing,Spring
+Male,T-shirt,3,Oregon,Clothing,Spring
+Male,Belt,1,Pennsylvania,Accessories,Winter
+Male,Blouse,2,Pennsylvania,Clothing,Winter
+Male,Boots,4,Pennsylvania,Footwear,Fall
+Male,Coat,4,Pennsylvania,Outerwear,Fall
+Male,Dress,5,Pennsylvania,Clothing,Summer
+Male,Gloves,2,Pennsylvania,Accessories,Spring
+Male,Hat,3,Pennsylvania,Accessories,Summer
+Male,Hoodie,2,Pennsylvania,Clothing,Summer
+Male,Jeans,1,Pennsylvania,Clothing,Summer
+Male,Jewelry,2,Pennsylvania,Accessories,Fall
+Male,Pants,1,Pennsylvania,Clothing,Winter
+Male,Scarf,4,Pennsylvania,Accessories,Fall
+Male,Shirt,2,Pennsylvania,Clothing,Summer
+Male,Shoes,1,Pennsylvania,Footwear,Summer
+Male,Shorts,2,Pennsylvania,Clothing,Spring
+Male,Skirt,2,Pennsylvania,Clothing,Spring
+Male,Sneakers,3,Pennsylvania,Footwear,Summer
+Male,Socks,2,Pennsylvania,Clothing,Spring
+Male,Sweater,3,Pennsylvania,Clothing,Summer
+Male,T-shirt,1,Pennsylvania,Clothing,Summer
+Male,Backpack,2,Rhode Island,Accessories,Fall
+Male,Belt,1,Rhode Island,Accessories,Winter
+Male,Blouse,2,Rhode Island,Clothing,Spring
+Male,Boots,1,Rhode Island,Footwear,Fall
+Male,Dress,5,Rhode Island,Clothing,Fall
+Male,Gloves,2,Rhode Island,Accessories,Summer
+Male,Handbag,1,Rhode Island,Accessories,Fall
+Male,Hat,1,Rhode Island,Accessories,Fall
+Male,Hoodie,1,Rhode Island,Clothing,Fall
+Male,Jacket,1,Rhode Island,Outerwear,Fall
+Male,Jeans,2,Rhode Island,Clothing,Winter
+Male,Jewelry,2,Rhode Island,Accessories,Spring
+Male,Pants,3,Rhode Island,Clothing,Summer
+Male,Sandals,3,Rhode Island,Footwear,Spring
+Male,Scarf,1,Rhode Island,Accessories,Winter
+Male,Shirt,1,Rhode Island,Clothing,Spring
+Male,Shoes,1,Rhode Island,Footwear,Winter
+Male,Shorts,3,Rhode Island,Clothing,Winter
+Male,Skirt,3,Rhode Island,Clothing,Winter
+Male,Sneakers,1,Rhode Island,Footwear,Winter
+Male,Sweater,2,Rhode Island,Clothing,Summer
+Male,T-shirt,1,Rhode Island,Clothing,Winter
+Male,Backpack,1,South Carolina,Accessories,Spring
+Male,Belt,2,South Carolina,Accessories,Summer
+Male,Blouse,3,South Carolina,Clothing,Winter
+Male,Boots,3,South Carolina,Footwear,Fall
+Male,Coat,3,South Carolina,Outerwear,Summer
+Male,Dress,3,South Carolina,Clothing,Fall
+Male,Gloves,2,South Carolina,Accessories,Spring
+Male,Hat,4,South Carolina,Accessories,Summer
+Male,Hoodie,3,South Carolina,Clothing,Fall
+Male,Jacket,2,South Carolina,Outerwear,Winter
+Male,Jeans,2,South Carolina,Clothing,Summer
+Male,Jewelry,1,South Carolina,Accessories,Spring
+Male,Pants,4,South Carolina,Clothing,Fall
+Male,Sandals,1,South Carolina,Footwear,Summer
+Male,Scarf,4,South Carolina,Accessories,Winter
+Male,Shirt,4,South Carolina,Clothing,Summer
+Male,Shoes,4,South Carolina,Footwear,Fall
+Male,Shorts,1,South Carolina,Clothing,Summer
+Male,Skirt,1,South Carolina,Clothing,Spring
+Male,Socks,3,South Carolina,Clothing,Fall
+Male,Sunglasses,1,South Carolina,Accessories,Spring
+Male,Sweater,2,South Carolina,Clothing,Fall
+Male,T-shirt,1,South Carolina,Clothing,Winter
+Male,Backpack,4,South Dakota,Accessories,Winter
+Male,Belt,1,South Dakota,Accessories,Winter
+Male,Blouse,1,South Dakota,Clothing,Fall
+Male,Boots,3,South Dakota,Footwear,Fall
+Male,Coat,2,South Dakota,Outerwear,Summer
+Male,Dress,2,South Dakota,Clothing,Fall
+Male,Gloves,2,South Dakota,Accessories,Summer
+Male,Hat,2,South Dakota,Accessories,Fall
+Male,Hoodie,1,South Dakota,Clothing,Winter
+Male,Jacket,2,South Dakota,Outerwear,Fall
+Male,Jeans,4,South Dakota,Clothing,Summer
+Male,Jewelry,4,South Dakota,Accessories,Spring
+Male,Pants,2,South Dakota,Clothing,Fall
+Male,Sandals,3,South Dakota,Footwear,Summer
+Male,Scarf,1,South Dakota,Accessories,Fall
+Male,Shorts,2,South Dakota,Clothing,Spring
+Male,Skirt,3,South Dakota,Clothing,Fall
+Male,Sneakers,2,South Dakota,Footwear,Fall
+Male,Socks,4,South Dakota,Clothing,Summer
+Male,Sunglasses,3,South Dakota,Accessories,Fall
+Male,Backpack,1,Tennessee,Accessories,Summer
+Male,Belt,3,Tennessee,Accessories,Summer
+Male,Blouse,1,Tennessee,Clothing,Spring
+Male,Boots,2,Tennessee,Footwear,Winter
+Male,Coat,2,Tennessee,Outerwear,Spring
+Male,Dress,1,Tennessee,Clothing,Spring
+Male,Gloves,4,Tennessee,Accessories,Winter
+Male,Handbag,1,Tennessee,Accessories,Spring
+Male,Hat,4,Tennessee,Accessories,Winter
+Male,Hoodie,2,Tennessee,Clothing,Winter
+Male,Jacket,3,Tennessee,Outerwear,Spring
+Male,Jeans,1,Tennessee,Clothing,Spring
+Male,Jewelry,1,Tennessee,Accessories,Fall
+Male,Pants,2,Tennessee,Clothing,Summer
+Male,Sandals,2,Tennessee,Footwear,Spring
+Male,Scarf,3,Tennessee,Accessories,Spring
+Male,Shoes,2,Tennessee,Footwear,Spring
+Male,Shorts,2,Tennessee,Clothing,Spring
+Male,Skirt,3,Tennessee,Clothing,Fall
+Male,Sneakers,2,Tennessee,Footwear,Spring
+Male,Socks,3,Tennessee,Clothing,Fall
+Male,Sunglasses,1,Tennessee,Accessories,Summer
+Male,Sweater,2,Tennessee,Clothing,Winter
+Male,T-shirt,2,Tennessee,Clothing,Fall
+Male,Backpack,2,Texas,Accessories,Summer
+Male,Belt,2,Texas,Accessories,Winter
+Male,Boots,1,Texas,Footwear,Summer
+Male,Coat,2,Texas,Outerwear,Summer
+Male,Dress,4,Texas,Clothing,Summer
+Male,Gloves,2,Texas,Accessories,Summer
+Male,Handbag,1,Texas,Accessories,Fall
+Male,Hat,2,Texas,Accessories,Fall
+Male,Hoodie,2,Texas,Clothing,Summer
+Male,Jacket,1,Texas,Outerwear,Winter
+Male,Jeans,2,Texas,Clothing,Fall
+Male,Pants,2,Texas,Clothing,Winter
+Male,Sandals,2,Texas,Footwear,Spring
+Male,Scarf,2,Texas,Accessories,Winter
+Male,Shirt,2,Texas,Clothing,Summer
+Male,Shoes,4,Texas,Footwear,Spring
+Male,Sneakers,2,Texas,Footwear,Fall
+Male,Socks,1,Texas,Clothing,Spring
+Male,Sunglasses,1,Texas,Accessories,Fall
+Male,Sweater,4,Texas,Clothing,Summer
+Male,T-shirt,3,Texas,Clothing,Fall
+Male,Belt,1,Utah,Accessories,Fall
+Male,Blouse,2,Utah,Clothing,Fall
+Male,Boots,1,Utah,Footwear,Winter
+Male,Dress,1,Utah,Clothing,Spring
+Male,Gloves,2,Utah,Accessories,Fall
+Male,Handbag,2,Utah,Accessories,Summer
+Male,Hat,2,Utah,Accessories,Fall
+Male,Hoodie,1,Utah,Clothing,Winter
+Male,Jacket,3,Utah,Outerwear,Fall
+Male,Jeans,1,Utah,Clothing,Winter
+Male,Jewelry,2,Utah,Accessories,Winter
+Male,Pants,5,Utah,Clothing,Summer
+Male,Sandals,1,Utah,Footwear,Summer
+Male,Scarf,3,Utah,Accessories,Summer
+Male,Shirt,1,Utah,Clothing,Summer
+Male,Shoes,3,Utah,Footwear,Spring
+Male,Shorts,5,Utah,Clothing,Winter
+Male,Sneakers,3,Utah,Footwear,Fall
+Male,Socks,2,Utah,Clothing,Summer
+Male,Sunglasses,2,Utah,Accessories,Spring
+Male,Sweater,1,Utah,Clothing,Fall
+Male,Backpack,1,Vermont,Accessories,Spring
+Male,Belt,3,Vermont,Accessories,Winter
+Male,Blouse,1,Vermont,Clothing,Summer
+Male,Coat,3,Vermont,Outerwear,Summer
+Male,Dress,2,Vermont,Clothing,Spring
+Male,Gloves,1,Vermont,Accessories,Fall
+Male,Handbag,1,Vermont,Accessories,Fall
+Male,Hat,1,Vermont,Accessories,Fall
+Male,Hoodie,2,Vermont,Clothing,Summer
+Male,Jacket,2,Vermont,Outerwear,Fall
+Male,Jeans,2,Vermont,Clothing,Winter
+Male,Jewelry,6,Vermont,Accessories,Spring
+Male,Pants,5,Vermont,Clothing,Summer
+Male,Sandals,1,Vermont,Footwear,Fall
+Male,Scarf,1,Vermont,Accessories,Winter
+Male,Shirt,1,Vermont,Clothing,Winter
+Male,Shoes,4,Vermont,Footwear,Winter
+Male,Shorts,3,Vermont,Clothing,Winter
+Male,Skirt,2,Vermont,Clothing,Winter
+Male,Sneakers,5,Vermont,Footwear,Summer
+Male,Socks,4,Vermont,Clothing,Winter
+Male,Sunglasses,3,Vermont,Accessories,Summer
+Male,Sweater,5,Vermont,Clothing,Winter
+Male,T-shirt,3,Vermont,Clothing,Spring
+Male,Backpack,4,Virginia,Accessories,Winter
+Male,Belt,1,Virginia,Accessories,Summer
+Male,Blouse,2,Virginia,Clothing,Summer
+Male,Boots,3,Virginia,Footwear,Spring
+Male,Dress,2,Virginia,Clothing,Summer
+Male,Gloves,3,Virginia,Accessories,Fall
+Male,Handbag,3,Virginia,Accessories,Fall
+Male,Hat,2,Virginia,Accessories,Winter
+Male,Hoodie,1,Virginia,Clothing,Summer
+Male,Jacket,2,Virginia,Outerwear,Fall
+Male,Jeans,1,Virginia,Clothing,Fall
+Male,Jewelry,1,Virginia,Accessories,Summer
+Male,Pants,1,Virginia,Clothing,Winter
+Male,Sandals,1,Virginia,Footwear,Winter
+Male,Scarf,3,Virginia,Accessories,Spring
+Male,Shirt,2,Virginia,Clothing,Spring
+Male,Shoes,5,Virginia,Footwear,Summer
+Male,Shorts,3,Virginia,Clothing,Winter
+Male,Skirt,4,Virginia,Clothing,Summer
+Male,Sneakers,2,Virginia,Footwear,Winter
+Male,Socks,2,Virginia,Clothing,Spring
+Male,Sunglasses,3,Virginia,Accessories,Fall
+Male,Sweater,1,Virginia,Clothing,Spring
+Male,T-shirt,1,Virginia,Clothing,Spring
+Male,Backpack,3,Washington,Accessories,Spring
+Male,Belt,2,Washington,Accessories,Spring
+Male,Blouse,1,Washington,Clothing,Fall
+Male,Boots,3,Washington,Footwear,Summer
+Male,Coat,2,Washington,Outerwear,Spring
+Male,Dress,5,Washington,Clothing,Summer
+Male,Gloves,4,Washington,Accessories,Summer
+Male,Handbag,2,Washington,Accessories,Summer
+Male,Hat,1,Washington,Accessories,Winter
+Male,Hoodie,1,Washington,Clothing,Spring
+Male,Jacket,1,Washington,Outerwear,Winter
+Male,Jeans,2,Washington,Clothing,Fall
+Male,Jewelry,2,Washington,Accessories,Winter
+Male,Pants,1,Washington,Clothing,Winter
+Male,Sandals,2,Washington,Footwear,Winter
+Male,Scarf,2,Washington,Accessories,Summer
+Male,Shirt,3,Washington,Clothing,Spring
+Male,Shorts,1,Washington,Clothing,Spring
+Male,Skirt,1,Washington,Clothing,Summer
+Male,Sneakers,2,Washington,Footwear,Winter
+Male,Socks,4,Washington,Clothing,Fall
+Male,Sunglasses,1,Washington,Accessories,Spring
+Male,Sweater,1,Washington,Clothing,Summer
+Male,T-shirt,1,Washington,Clothing,Fall
+Male,Backpack,2,West Virginia,Accessories,Summer
+Male,Blouse,3,West Virginia,Clothing,Fall
+Male,Boots,2,West Virginia,Footwear,Winter
+Male,Coat,6,West Virginia,Outerwear,Summer
+Male,Dress,1,West Virginia,Clothing,Winter
+Male,Gloves,4,West Virginia,Accessories,Summer
+Male,Handbag,3,West Virginia,Accessories,Summer
+Male,Hat,3,West Virginia,Accessories,Summer
+Male,Hoodie,4,West Virginia,Clothing,Fall
+Male,Jacket,1,West Virginia,Outerwear,Winter
+Male,Jeans,2,West Virginia,Clothing,Winter
+Male,Pants,1,West Virginia,Clothing,Summer
+Male,Sandals,3,West Virginia,Footwear,Fall
+Male,Scarf,3,West Virginia,Accessories,Spring
+Male,Shirt,2,West Virginia,Clothing,Summer
+Male,Shoes,1,West Virginia,Footwear,Summer
+Male,Shorts,3,West Virginia,Clothing,Fall
+Male,Skirt,2,West Virginia,Clothing,Winter
+Male,Sneakers,1,West Virginia,Footwear,Spring
+Male,Sunglasses,7,West Virginia,Accessories,Winter
+Male,Sweater,1,West Virginia,Clothing,Fall
+Male,T-shirt,3,West Virginia,Clothing,Spring
+Male,Backpack,1,Wisconsin,Accessories,Spring
+Male,Belt,3,Wisconsin,Accessories,Summer
+Male,Blouse,5,Wisconsin,Clothing,Fall
+Male,Boots,1,Wisconsin,Footwear,Winter
+Male,Gloves,1,Wisconsin,Accessories,Spring
+Male,Handbag,1,Wisconsin,Accessories,Summer
+Male,Hat,4,Wisconsin,Accessories,Fall
+Male,Hoodie,2,Wisconsin,Clothing,Winter
+Male,Jacket,2,Wisconsin,Outerwear,Spring
+Male,Jeans,3,Wisconsin,Clothing,Fall
+Male,Jewelry,1,Wisconsin,Accessories,Spring
+Male,Pants,3,Wisconsin,Clothing,Winter
+Male,Sandals,2,Wisconsin,Footwear,Winter
+Male,Scarf,2,Wisconsin,Accessories,Spring
+Male,Shirt,1,Wisconsin,Clothing,Summer
+Male,Shoes,2,Wisconsin,Footwear,Fall
+Male,Shorts,2,Wisconsin,Clothing,Spring
+Male,Skirt,3,Wisconsin,Clothing,Spring
+Male,Sneakers,2,Wisconsin,Footwear,Summer
+Male,Socks,1,Wisconsin,Clothing,Summer
+Male,Sunglasses,1,Wisconsin,Accessories,Fall
+Male,Sweater,1,Wisconsin,Clothing,Fall
+Male,T-shirt,6,Wisconsin,Clothing,Summer
+Male,Backpack,4,Wyoming,Accessories,Winter
+Male,Belt,1,Wyoming,Accessories,Fall
+Male,Blouse,3,Wyoming,Clothing,Summer
+Male,Boots,1,Wyoming,Footwear,Spring
+Male,Coat,4,Wyoming,Outerwear,Fall
+Male,Dress,2,Wyoming,Clothing,Fall
+Male,Gloves,4,Wyoming,Accessories,Fall
+Male,Handbag,2,Wyoming,Accessories,Winter
+Male,Hat,2,Wyoming,Accessories,Spring
+Male,Hoodie,4,Wyoming,Clothing,Spring
+Male,Jeans,3,Wyoming,Clothing,Summer
+Male,Pants,2,Wyoming,Clothing,Spring
+Male,Sandals,1,Wyoming,Footwear,Winter
+Male,Scarf,1,Wyoming,Accessories,Spring
+Male,Shirt,4,Wyoming,Clothing,Fall
+Male,Shoes,1,Wyoming,Footwear,Winter
+Male,Shorts,1,Wyoming,Clothing,Fall
+Male,Skirt,2,Wyoming,Clothing,Spring
+Male,Sneakers,4,Wyoming,Footwear,Summer
+Male,Socks,1,Wyoming,Clothing,Spring
+Male,Sunglasses,2,Wyoming,Accessories,Winter
+Male,Sweater,1,Wyoming,Clothing,Summer
+Male,T-shirt,1,Wyoming,Clothing,Fall
